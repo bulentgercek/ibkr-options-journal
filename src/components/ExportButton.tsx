@@ -20,8 +20,8 @@ export const ExportButton: React.FC<ExportButtonProps> = ({ combos, disabled }) 
       'Strategy',
       'Entry Type',
       'Entry Amount ($)',
-      'Credit (Day)',
-      'Debit (Day)',
+      'Open (Day)',
+      'Close (Day)',
       'Commission ($)',
       'Net Realized ($)',
     ];
@@ -31,8 +31,8 @@ export const ExportButton: React.FC<ExportButtonProps> = ({ combos, disabled }) 
       combo.strategy,
       combo.entryType,
       combo.entryAmount.toFixed(2),
-      combo.creditDay,
-      combo.debitDay,
+      combo.openDate,
+      combo.closeDate,
       combo.commission.toFixed(2),
       combo.netRealized.toFixed(2),
     ]);

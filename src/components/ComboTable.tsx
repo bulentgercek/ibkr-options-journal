@@ -76,11 +76,11 @@ export const ComboTable: React.FC<ComboTableProps> = ({ combos }) => {
             <th onClick={() => handleSort('entryAmount')} title="The total amount received or paid when opening the position (excluding commissions).">
               Entry Amount ($) {getSortIcon('entryAmount')}
             </th>
-            <th onClick={() => handleSort('creditDay')} title="Total premium received (credit) during the life of the trade.">
-              Credit (Day) {getSortIcon('creditDay')}
+            <th onClick={() => handleSort('openDate')} title="The date when the first leg of the combo was opened.">
+              Open (Day) {getSortIcon('openDate')}
             </th>
-            <th onClick={() => handleSort('debitDay')} title="Total premium paid (debit) during the life of the trade.">
-              Debit (Day) {getSortIcon('debitDay')}
+            <th onClick={() => handleSort('closeDate')} title="The date when the last leg of the combo was closed or expired.">
+              Close (Day) {getSortIcon('closeDate')}
             </th>
             <th onClick={() => handleSort('commission')} title="Total IBKR fees paid for all legs in this combo.">
               Commission ($) {getSortIcon('commission')}
@@ -101,8 +101,8 @@ export const ComboTable: React.FC<ComboTableProps> = ({ combos }) => {
                 </span>
               </td>
               <td className="currency">{formatCurrency(combo.entryAmount)}</td>
-              <td>{combo.creditDay}</td>
-              <td>{combo.debitDay}</td>
+              <td>{combo.openDate}</td>
+              <td>{combo.closeDate}</td>
               <td className="currency">{formatCurrency(combo.commission)}</td>
               <td className={`currency ${combo.netRealized >= 0 ? 'profit' : 'loss'}`}>
                 {formatCurrency(combo.netRealized)}
