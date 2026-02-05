@@ -1,11 +1,14 @@
-Asset Category,Symbol,Date/Time,Quantity,Proceeds,Comm/Fee
-Equity and Index Options,SPY   240315C00500000,2024-03-01,-1,500.00,1.50
-Equity and Index Options,SPY   240315C00505000,2024-03-01,1,-300.00,1.50
-Equity and Index Options,SPY   240315C00500000,2024-03-15,1,-200.00,1.50
-Equity and Index Options,SPY   240315C00505000,2024-03-15,-1,0.00,1.50
-Equity and Index Options,AAPL  240420P00170000,2024-04-01,-2,800.00,2.00
-Equity and Index Options,AAPL  240420P00165000,2024-04-01,2,-400.00,2.00
-Equity and Index Options,AAPL  240420P00170000,2024-04-20,2,-100.00,2.00
-Equity and Index Options,AAPL  240420P00165000,2024-04-20,-2,0.00,2.00
-Equity and Index Options,TSLA  240515C00180000,2024-05-01,-1,350.00,1.50
-Equity and Index Options,TSLA  240515C00180000,2024-05-10,1,-450.00,1.50
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Activity Statement
+Statement,Data,Base Currency,USD
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Equity and Index Options,USD,SPY 20MAR26 500 P,"2026-01-10, 10:00:00",-1,5.50,5.50,550,-1.05,-548.95,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 20MAR26 500 P,"2026-02-01, 15:30:00",1,1.20,1.20,-120,-1.05,548.95,427.90,0,C
+Trades,Data,Order,Equity and Index Options,USD,AAPL 15JAN27 220 C,"2026-01-15, 09:45:00",-2,10.00,10.00,2000,-2.10,-1997.90,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,AAPL 15JAN27 220 C,"2026-01-20, 11:20:00",2,8.50,8.50,-1700,-2.10,1997.90,295.80,0,C
+Trades,Data,Order,Equity and Index Options,USD,TSLA 19JUN26 180 P,"2026-01-05, 14:00:00",1,15.00,15.00,-1500,-1.05,1501.05,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 19JUN26 180 P,"2026-01-12, 16:00:00",-1,18.50,18.50,1850,-1.05,-1501.05,347.90,0,C
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 400 P,"2026-01-02, 10:00:00",-1,4.50,4.50,450,-1.05,-448.95,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 405 P,"2026-01-02, 10:00:00",1,6.80,6.80,-680,-1.05,681.05,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 400 P,"2026-01-16, 16:20:00",1,0,0,0,0,448.95,448.95,0,C;Ep
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 405 P,"2026-01-16, 16:20:00",-1,0,0,0,0,-681.05,-681.05,0,C;Ep
