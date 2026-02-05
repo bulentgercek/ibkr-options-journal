@@ -1,0 +1,1490 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers LLC
+Statement,Data,BrokerAddress,"Two Pickwick Plaza, Greenwich, CT 06830"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 1, 2026 - February 3, 2026"
+Statement,Data,WhenGenerated,"2026-02-04, 19:16:02 EST"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Bulent Gercek
+Account Information,Data,Account,U18394847
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,5280.887283332,3952.063690716,-0.000024698,3952.063666018,-1328.823617313
+Net Asset Value,Data,Stock,53.14,2878.47,0,2878.47,2825.33
+Net Asset Value,Data,Options,148.59,4218.77,-5355.41,-1136.64,-1285.23
+Net Asset Value,Data,Total,5482.617283332,11049.303690716,-5355.410024698,5693.893666018,211.276382687
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,1.426407312%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,5482.617283332
+Change in NAV,Data,Mark-to-Market,352.42521332
+Change in NAV,Data,Deposits & Withdrawals,138.63
+Change in NAV,Data,Other Fees,-1.5
+Change in NAV,Data,Commissions,-278.27883
+Change in NAV,Data,Ending Value,5693.893666018
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,AA,1,0,53.1400,--,4.14,0.23,-1.62099,0,2.74901,
+Mark-to-Market Performance Summary,Data,Stocks,GLD,0,0,--,--,0,-500,-0.0195,0,-500.0195,
+Mark-to-Market Performance Summary,Data,Stocks,MSFT,0,7,--,411.2100,-303.15,-2.19,-3,0,-308.34,
+Mark-to-Market Performance Summary,Data,Stocks,SOLV,0,0,--,--,-24.96,-0.417,-3.00117,0,-28.37817,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-323.97,-502.377,-7.64166,0,-833.98866,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,DE 15JAN27 300 P,0,0,--,--,-18.04,-109.96,-2.81158,0,-130.81158,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,DE 15JAN27 310 P,0,0,--,--,4.22,107.78,-2.10579,0,109.89421,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 17.5 P,1,0,0.0791,--,-7.08,14.17,-1.05454,0,6.03546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 22.5 P,-1,0,0.6050,--,50.54,-2.04,-1.05125,0,47.44875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 30 C,1,0,4.9668,--,646.26,-142.94,-1.05454,0,502.26546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 35 C,-1,0,2.9550,--,-461.24,106.74,-1.05125,0,-355.55125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 05JAN26 382 P,0,0,--,--,-11,-8,-1.05125,0,-20.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 05JAN26 387 P,0,0,--,--,20.16,14.84,-1.05454,0,33.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 05JAN26 415 C,0,0,--,--,3.36,-0.36,-1.05454,0,1.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 05JAN26 420 C,0,0,--,--,-2.73,0.73,-1.05125,0,-3.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 07JAN26 392 P,0,0,--,--,-2.86,-1.14,-1.05125,0,-5.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 07JAN26 397 P,0,0,--,--,4.27,3.73,-1.05454,0,6.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 07JAN26 419 C,0,0,--,--,21.5,-7.5,-1.05454,0,12.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 07JAN26 424 C,0,0,--,--,-1.57,-0.43,-1.05125,0,-3.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 09JAN26 393 P,0,0,--,--,-4.07,-4.93,-1.04875,0,-10.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 09JAN26 398 P,0,0,--,--,8.88,9.12,-1.05204,0,16.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 09JAN26 418 C,0,0,--,--,32.5,-14.5,-1.05204,0,16.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 09JAN26 423 C,0,0,--,--,-4.63,2.63,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 14JAN26 409 P,0,0,--,--,-10.31,0.31,-1.04875,0,-11.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 14JAN26 414 P,0,0,--,--,38,-12,-1.05204,0,24.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 14JAN26 435 C,0,0,--,--,3,5,-1.05204,0,6.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 14JAN26 440 C,0,0,--,--,-1.59,-0.41,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 16JAN26 409 P,0,0,--,--,-9.02,1.02,-1.04875,0,-9.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 16JAN26 414 P,0,0,--,--,25.65,-7.65,-1.05204,0,16.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 16JAN26 436 C,0,0,--,--,2.86,2.14,-1.05204,0,3.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 16JAN26 441 C,0,0,--,--,-1.89,-0.11,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 23JAN26 429 P,0,0,--,--,-10.91,-7.09,-0.69875,0,-18.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 23JAN26 434 P,0,0,--,--,17.7,27.3,-0.70204,0,44.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 23JAN26 461 C,0,0,--,--,57.5,-44.5,-0.70204,0,12.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 23JAN26 466 C,0,0,--,--,-18.38,8.38,-0.69875,0,-10.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 438 P,0,0,--,--,-26.23,20.23,-1.75079,0,-7.75079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 443 P,0,0,--,--,44.85,-15.85,-1.75079,0,27.24921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 444 P,0,0,--,--,-8.24,-6.76,-0.69875,0,-15.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 449 P,0,0,--,--,11.33,13.67,-0.70204,0,24.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 481 C,0,0,--,--,-1070.65,1098.65,-0.70204,0,27.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 486 C,0,0,--,--,721.37,-733.37,-0.69875,0,-12.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 490 C,0,0,--,--,-439.5,404.5,-1.75079,0,-36.75079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 28JAN26 495 C,0,0,--,--,-8.62,0.62,-1.75079,0,-9.75079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 30JAN26 485 C,0,0,--,--,1413.35,-88.35,-2.60329,0,1322.39671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 30JAN26 490 C,0,0,--,--,-1062.33,45.33,-2.50329,0,-1019.50329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 30JAN26 498 C,0,0,--,--,695.16,-452.16,-1.75329,0,241.24671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 02FEB26 495 C,0,0,--,--,-996.67,579.67,-1.75329,0,-418.75329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 395 P,0,-1,--,0.0375,59.75,32.5,-0.70204,0,91.54796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 405 P,0,1,--,0.0749,-113.09,-21.42,-0.69875,0,-135.20875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 410 P,0,-1,--,0.1109,174.7,6.21,-0.70204,0,180.20796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 425 P,0,1,--,0.3441,0,-23.59,-1.04875,0,-24.63875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 430 P,0,-1,--,0.5380,0,32.2,-1.05204,0,31.14796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 475 C,0,-1,--,0.4820,0,23.8,-1.05204,0,22.74796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 480 C,0,1,--,0.3140,0,-13.6,-1.04875,0,-14.64875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 485 C,0,0,--,--,1879.86,-439.86,-1.62079,0,1438.37921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 490 C,0,-1,--,0.1378,-1626.43,328.65,-3.30283,0,-1301.08283,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 493 C,0,0,--,--,-1485.23,335.23,-1.75329,0,-1151.75329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 495 C,0,1,--,0.1000,0.15,-24.15,-0.69875,0,-24.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 04FEB26 498 C,0,0,--,--,1248.99,-271.99,-1.75329,0,975.24671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GLD 06FEB26 400 P,0,1,--,0.3800,-125.63,-37.37,-0.69875,0,-163.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 21JAN26 252 P,0,0,--,--,-2.55,-1.45,-1.04875,0,-5.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 21JAN26 257 P,0,0,--,--,15.5,4.5,-1.05204,0,18.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 21JAN26 270 C,0,0,--,--,1.54,1.46,-1.05204,0,1.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 21JAN26 275 C,0,0,--,--,-1.03,0.03,-1.04875,0,-2.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 23JAN26 259 P,0,0,--,--,-1.87,-2.13,-0.98875,0,-4.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 23JAN26 264 P,0,0,--,--,6.5,1.5,-2.37079,0,5.62921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 23JAN26 275 C,0,0,--,--,3.5,15.5,-0.99204,0,18.00796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 23JAN26 280 C,0,0,--,--,-0.2,-1.8,-0.98875,0,-2.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 27JAN26 254 P,0,0,--,--,-2.09,-1.91,-1.51875,0,-5.51875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 27JAN26 259 P,0,0,--,--,7.5,5.5,-1.52204,0,11.47796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 27JAN26 271 C,0,0,--,--,1.51,2.49,-1.52204,0,2.47796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 27JAN26 276 C,0,0,--,--,-0.02,-0.98,-1.51875,0,-2.51875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 29JAN26 252 P,0,0,--,--,-1.64,-2.36,-1.04875,0,-5.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 29JAN26 257 P,0,0,--,--,6.21,7.79,-1.05204,0,12.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 29JAN26 269 C,0,0,--,--,3.39,8.61,-1.05204,0,10.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 29JAN26 274 C,0,0,--,--,-0.86,-1.14,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 255 C,0,-1,--,7.8835,0,-220.35,-0.70204,0,-221.05204,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 256 C,0,1,--,6.9036,49.47,-62.11,-0.69875,0,-13.33875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 256 P,0,1,--,0.0750,0,-1.5,-1.04875,0,-2.54875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 258 C,0,-2,--,4.9936,-80.96,128.24,-0.70408,0,46.57592,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 259 P,0,-1,--,0.2550,0,0.5,-1.05204,0,-0.55204,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 262 C,0,1,--,1.7423,7.23,-58,-0.69875,0,-51.46875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 269 C,0,-1,--,0.0250,0,5.5,-1.05204,0,4.44796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 04FEB26 272 C,0,1,--,0.0116,0,-0.84,-1.04875,0,-1.88875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,IWM 05FEB26 258 C,0,1,--,5.3116,0,169.16,-0.69875,0,168.46125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MSFT 06FEB26 402.5 C,0,-1,--,10.8601,0,-13.01,-0.70204,0,-13.71204,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MSFT 09FEB26 407.5 C,0,1,--,8.2303,0,10.03,-0.69875,0,9.33125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 593 P,0,0,--,--,-2.34,-4.66,-1.16875,0,-8.16875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 598 P,0,0,--,--,5.5,9.5,-1.17204,0,13.82796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 623 C,0,0,--,--,6.5,1.5,-1.17204,0,6.82796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 628 C,0,0,--,--,-2.13,-0.87,-1.16875,0,-4.16875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 600 P,0,0,--,--,-3.43,-1.57,-1.05125,0,-6.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 605 P,0,0,--,--,5.34,4.66,-1.05454,0,8.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 627 C,0,0,--,--,43.5,-33.5,-1.91329,0,8.08671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 632 C,0,0,--,--,-2.5,-0.5,-1.05125,0,-4.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 600 P,0,0,--,--,-7.5,-6.5,-1.04875,0,-15.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 605 P,0,0,--,--,15.5,13.5,-1.05204,0,27.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 635 C,0,0,--,--,1.72,1.28,-1.05204,0,1.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 640 C,0,0,--,--,-1.06,-0.94,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 604.78 P,0,0,--,--,-10.9,-2.1,-0.98875,0,-13.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 609.78 P,0,0,--,--,24.5,-3.5,-0.99204,0,20.00796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 636 C,0,0,--,--,2.18,4.82,-0.99204,0,6.00796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 641 C,0,0,--,--,-0.84,-2.16,-0.98875,0,-3.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 590 P,0,0,--,--,-10.5,-9.5,-1.05125,0,-21.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 595 P,0,0,--,--,31.5,6.5,-1.05454,0,36.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 632 C,0,0,--,--,0.89,3.11,-1.05454,0,2.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 637 C,0,0,--,--,-0.26,-1.74,-1.05125,0,-3.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 599 P,0,0,--,--,-4.28,-6.72,-1.53875,0,-12.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 604 P,0,0,--,--,7.5,14.5,-1.54204,0,20.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 628 C,0,0,--,--,8.5,12.5,-2.40079,0,18.59921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 633 C,0,0,--,--,-0.38,-3.62,-1.53875,0,-5.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 609 P,0,0,--,--,-7,-6,-1.05125,0,-14.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 614 P,0,0,--,--,13.5,10.5,-1.05454,0,22.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 634 C,0,0,--,--,2.5,2.5,-1.91329,0,3.08671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 639 C,0,0,--,--,-0.87,-1.13,-1.05125,0,-3.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 614 P,0,0,--,--,-15,-5,-1.05125,0,-21.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 619 P,0,0,--,--,34.5,4.5,-1.05454,0,37.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 639 C,0,0,--,--,19.5,11.5,-1.05454,0,29.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 644 C,0,0,--,--,-2.18,-1.82,-1.05125,0,-5.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 615 P,0,0,--,--,-28.13,-12.87,-1.53875,0,-42.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 620 P,0,0,--,--,58.68,22.32,-1.54204,0,79.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 645 C,0,0,--,--,17.5,4.5,-1.54204,0,20.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 650 C,0,0,--,--,-1.73,-4.27,-1.53875,0,-7.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 607 C,0,1,--,10.4204,0,-157.96,-0.69875,0,-158.65875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 610 C,0,-2,--,7.8949,0,277.02,-0.70408,0,276.31592,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 616 C,0,1,--,3.6614,0,-108.86,-0.69875,0,-109.55875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 619 C,0,0,--,--,-642.08,5.08,-2.24079,0,-639.24079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 622 C,0,0,--,--,1041.82,10.18,-3.08158,0,1048.91842,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 628 C,0,0,--,--,-226.5,-40.5,-2.24079,0,-269.24079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 07JAN26 62.5 P,0,0,--,--,-1.36,-0.64,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 07JAN26 65 P,0,0,--,--,3.21,0.79,-1.05204,0,2.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 07JAN26 76 C,0,0,--,--,54,-20,-1.05204,0,32.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 07JAN26 78.5 C,0,0,--,--,-17.5,6.5,-1.04875,0,-12.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 09JAN26 62.5 P,0,0,--,--,-3.5,-3.5,-1.53875,0,-8.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 09JAN26 64.5 P,0,0,--,--,8.5,10.5,-1.54204,0,17.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 09JAN26 75.5 C,0,0,--,--,6.5,-0.5,-1.54204,0,4.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 09JAN26 77.5 C,0,0,--,--,-2.5,-0.5,-1.53875,0,-4.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 14JAN26 71.5 P,0,0,--,--,-8.08,3.08,-1.04875,0,-6.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 14JAN26 73.5 P,0,0,--,--,16,-8,-1.05204,0,6.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 14JAN26 85.5 C,0,0,--,--,5.54,15.46,-1.05204,0,19.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 14JAN26 87.5 C,0,0,--,--,-2.78,-6.22,-1.04875,0,-10.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 16JAN26 72.5 P,0,0,--,--,-4.73,-2.27,-1.04875,0,-8.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 16JAN26 75.5 P,0,0,--,--,9.14,8.86,-1.05204,0,16.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 16JAN26 87.5 C,0,0,--,--,34,-7,-1.05204,0,25.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 16JAN26 90.5 C,0,0,--,--,-9.74,1.74,-1.04875,0,-9.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 23JAN26 77.5 P,0,0,--,--,-6.68,-1.32,-1.61158,0,-9.61158,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 23JAN26 79.5 P,0,0,--,--,9.38,1.62,-1.61158,0,9.38842,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 23JAN26 90.5 C,0,0,--,--,-430,344,-2.21158,0,-88.21158,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 23JAN26 92.5 C,0,0,--,--,62.9,-50.9,-1.91158,0,10.08842,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 28JAN26 77.5 P,0,0,--,--,-9.18,-1.82,-0.69875,0,-11.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 28JAN26 82.5 P,0,0,--,--,24.15,5.85,-0.70204,0,29.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 28JAN26 115 C,0,0,--,--,57.5,-6.5,-0.70204,0,50.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 28JAN26 120 C,0,0,--,--,-35,6,-0.69875,0,-29.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 30JAN26 97 C,0,0,--,--,907.43,-266.43,-1.27079,0,639.72921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 30JAN26 102 C,0,0,--,--,-504.8,187.8,-2.15079,0,-319.15079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 30JAN26 115 C,0,0,--,--,120.89,-50.89,-1.55079,0,68.44921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 02FEB26 110 C,0,0,--,--,-349.79,93.79,-2.25079,0,-258.25079,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 04FEB26 67.5 P,0,2,--,0.1500,0,8,-1.3975,0,6.6025,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 04FEB26 70 P,0,-2,--,0.2944,0,-20.88,-1.40408,0,-22.28408,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 04FEB26 89.5 C,0,-2,--,0.0811,0,31.78,-1.40408,0,30.37592,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SLV 04FEB26 92 C,0,2,--,0.0540,0,-17.2,-1.3975,0,-18.5975,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 6845 P,0,0,--,--,-73.21,-138.79,-1.64125,0,-213.64125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 6850 P,0,0,--,--,82.49,145.51,-1.64125,0,226.35875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 7025 C,0,0,--,--,4.54,16.46,-1.55125,0,19.44875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 7030 C,0,0,--,--,-2.6,-14.4,-1.55125,0,-18.55125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 6870 P,0,0,--,--,-92.5,-81.5,-1.64125,0,-175.64125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 6875 P,0,0,--,--,105,80,-1.64125,0,183.35875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 7055 C,0,0,--,--,12.5,26.5,-1.55125,0,37.44875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 7060 C,0,0,--,--,-7.93,-22.07,-1.55125,0,-31.55125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 6865 P,0,0,--,--,-79.99,-81.01,-1.64125,0,-162.64125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 6870 P,0,0,--,--,90,84,-1.64125,0,172.35875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 7050 C,0,0,--,--,15,14,-1.55125,0,27.44875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 7055 C,0,0,--,--,-13.21,-8.79,-1.55125,0,-23.55125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 05JAN26 668 P,0,0,--,--,-2.59,-3.41,-1.05125,0,-7.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 05JAN26 673 P,0,0,--,--,6.5,14.5,-1.05454,0,19.94546,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 05JAN26 689 C,0,0,--,--,7.5,-6.5,-1.91329,0,-0.91329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 05JAN26 694 C,0,0,--,--,-0.31,-1.69,-1.05125,0,-3.05125,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 07JAN26 680 P,0,0,--,--,-4.35,-8.65,-1.51875,0,-14.51875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 07JAN26 685 P,0,0,--,--,12.5,26.5,-1.52204,0,37.47796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 07JAN26 695 C,0,0,--,--,20.5,-13.5,-2.38079,0,4.61921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 07JAN26 700 C,0,0,--,--,-0.17,-1.83,-1.51875,0,-3.51875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 09JAN26 677 P,0,0,--,--,-12.5,-4.5,-1.53875,0,-18.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 09JAN26 682 P,0,0,--,--,39.5,9.5,-1.54204,0,47.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 09JAN26 697 C,0,0,--,--,11.5,1.5,-2.59079,0,10.40921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 09JAN26 702 C,0,0,--,--,-1.54,-0.46,-1.53875,0,-3.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 14JAN26 678 P,0,0,--,--,-4.04,-4.96,-0.69875,0,-9.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 14JAN26 683 P,0,0,--,--,9.5,10.5,-0.70204,0,19.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 14JAN26 701 C,0,0,--,--,2.5,6.5,-0.70204,0,8.29796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 14JAN26 706 C,0,0,--,--,-1.08,-0.92,-0.69875,0,-2.69875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 16JAN26 680 P,0,0,--,--,-7.5,-4.5,-0.98875,0,-12.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 16JAN26 685 P,0,0,--,--,26.5,-3.5,-0.99204,0,22.00796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 16JAN26 704 C,0,0,--,--,0.36,1.64,-0.99204,0,1.00796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 16JAN26 709 C,0,0,--,--,-0.01,-0.99,-0.98875,0,-1.98875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 21JAN26 662 P,0,0,--,--,-12.5,1.5,-1.53875,0,-12.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 21JAN26 667 P,0,0,--,--,36.5,-10.5,-1.54204,0,24.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 21JAN26 695 C,0,0,--,--,0.97,2.03,-1.54204,0,1.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 21JAN26 700 C,0,0,--,--,-0.07,-1.93,-1.53875,0,-3.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 23JAN26 674 P,0,0,--,--,-4.59,-12.41,-1.04875,0,-18.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 23JAN26 679 P,0,0,--,--,12.5,29.5,-1.05204,0,40.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 23JAN26 698 C,0,0,--,--,2.5,5.5,-1.05204,0,6.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 23JAN26 703 C,0,0,--,--,-0.07,-2.93,-1.04875,0,-4.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 27JAN26 679 P,0,0,--,--,-4.73,-10.27,-1.53875,0,-16.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 27JAN26 684 P,0,0,--,--,11.5,18.5,-1.54204,0,28.45796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 27JAN26 699 C,0,0,--,--,2.5,0.5,-2.59079,0,0.40921,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 27JAN26 704 C,0,0,--,--,-0.85,-1.15,-1.53875,0,-3.53875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 28JAN26 680 P,0,0,--,--,-6.5,-7.5,-1.04875,0,-15.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 28JAN26 685 P,0,0,--,--,17.5,8.5,-1.05204,0,24.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 28JAN26 703 C,0,0,--,--,4.5,5.5,-1.05204,0,8.94796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 28JAN26 708 C,0,0,--,--,-0.14,-1.86,-1.04875,0,-3.04875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 29JAN26 678 P,0,0,--,--,-9.15,-0.85,-0.94875,0,-10.94875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 29JAN26 683 P,0,0,--,--,22.96,2.04,-0.95204,0,24.04796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 29JAN26 709 C,0,0,--,--,0.85,0.15,-0.95204,0,0.04796,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 29JAN26 714 C,0,0,--,--,-0.03,-0.97,-0.94875,0,-1.94875,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 30JAN26 680 P,0,0,--,--,10.76,3.24,-1.75329,0,12.24671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 02FEB26 685 P,0,0,--,--,3,-31,-1.75329,0,-29.75329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 05FEB26 685 C,0,-1,--,6.6963,0,-114.63,-0.99204,0,-115.62204,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SPY 06FEB26 690 C,0,1,--,4.2105,0,67.05,-0.98875,0,66.06125,
+Mark-to-Market Performance Summary,Data,Total,,,,,,204.39,974.38,-268.63717,0,910.13283,
+Mark-to-Market Performance Summary,Data,Forex,JPY,-0.0038475,-0.0038475,0.0063827,0.0064192,-0.00000014,0,0,0,-0.00000014,
+Mark-to-Market Performance Summary,Data,Forex,TRY,0,0,0.023279,0.022998,0.00013746,0.005182,-2,0,-1.99468054,
+Mark-to-Market Performance Summary,Data,Forex,USD,5280.887307889,3952.063690716,1.0000,1.0000,0,-0.003106,0,0,-0.003106,
+Mark-to-Market Performance Summary,Data,Total,,,,,,0.00013732,0.002076,-2,0,-1.99778668,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,-119.57986268,472.005076,-278.27883,0,74.14638332,
+Mark-to-Market Performance Summary,Data,Other Fees,,,,,,,,,,-1.5,
+Total P/L for Statement Period,,,,,,,,,,,,72.64638332,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,AA,0,4.568055,-3.395795,0,0,1.17226,0,0,0,0,0,1.17226,
+Realized & Unrealized Performance Summary,Data,Stocks,GLD,0,0,-485.42029,0,0,-485.42029,0,0,0,0,0,-485.42029,
+Realized & Unrealized Performance Summary,Data,Stocks,MSFT,0,0,0,0,0,0,0,-308.34,0,0,-308.34,-308.34,
+Realized & Unrealized Performance Summary,Data,Stocks,SOLV,0,0,-28.37817,0,0,-28.37817,0,0,0,0,0,-28.37817,
+Realized & Unrealized Performance Summary,Data,Total,,0,4.568055,-517.194255,0,0,-512.6262,0,-308.34,0,0,-308.34,-820.9662,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,DE 15JAN27 300 P,0,0,-130.81158,0,0,-130.81158,0,0,0,0,0,-130.81158,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,DE 15JAN27 310 P,0,109.89421,0,0,0,109.89421,0,0,0,0,0,109.89421,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 17.5 P,0,0,-32.75044,0,0,-32.75044,0,0,0,0,0,-32.75044,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 22.5 P,0,137.25006,0,0,0,137.25006,0,0,0,0,0,137.25006,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 30 C,0,452.24956,0,0,0,452.24956,0,0,0,0,0,452.24956,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ENPH 20MAR26 35 C,0,0,-291.74994,0,0,-291.74994,0,0,0,0,0,-291.74994,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 05JAN26 382 P,0,0,-20.05125,0,0,-20.05125,0,0,0,0,0,-20.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 05JAN26 387 P,0,33.94546,0,0,0,33.94546,0,0,0,0,0,33.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 05JAN26 415 C,0,1.94546,0,0,0,1.94546,0,0,0,0,0,1.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 05JAN26 420 C,0,0,-3.05125,0,0,-3.05125,0,0,0,0,0,-3.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 07JAN26 392 P,0,0,-5.05125,0,0,-5.05125,0,0,0,0,0,-5.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 07JAN26 397 P,0,6.94546,0,0,0,6.94546,0,0,0,0,0,6.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 07JAN26 419 C,0,12.94546,0,0,0,12.94546,0,0,0,0,0,12.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 07JAN26 424 C,0,0,-3.05125,0,0,-3.05125,0,0,0,0,0,-3.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 09JAN26 393 P,0,0,-10.04875,0,0,-10.04875,0,0,0,0,0,-10.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 09JAN26 398 P,0,16.94796,0,0,0,16.94796,0,0,0,0,0,16.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 09JAN26 418 C,0,16.94796,0,0,0,16.94796,0,0,0,0,0,16.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 09JAN26 423 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 14JAN26 409 P,0,0,-11.04875,0,0,-11.04875,0,0,0,0,0,-11.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 14JAN26 414 P,0,24.94796,0,0,0,24.94796,0,0,0,0,0,24.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 14JAN26 435 C,0,6.94796,0,0,0,6.94796,0,0,0,0,0,6.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 14JAN26 440 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 16JAN26 409 P,0,0,-9.04875,0,0,-9.04875,0,0,0,0,0,-9.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 16JAN26 414 P,0,16.94796,0,0,0,16.94796,0,0,0,0,0,16.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 16JAN26 436 C,0,3.94796,0,0,0,3.94796,0,0,0,0,0,3.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 16JAN26 441 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 23JAN26 429 P,0,0,-18.69875,0,0,-18.69875,0,0,0,0,0,-18.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 23JAN26 434 P,0,44.29796,0,0,0,44.29796,0,0,0,0,0,44.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 23JAN26 461 C,0,12.29796,0,0,0,12.29796,0,0,0,0,0,12.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 23JAN26 466 C,0,0,-10.69875,0,0,-10.69875,0,0,0,0,0,-10.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 438 P,0,0,-7.75079,0,0,-7.75079,0,0,0,0,0,-7.75079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 443 P,0,27.24921,0,0,0,27.24921,0,0,0,0,0,27.24921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 444 P,0,0,-15.69875,0,0,-15.69875,0,0,0,0,0,-15.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 449 P,0,24.29796,0,0,0,24.29796,0,0,0,0,0,24.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 490 C,0,0,-36.75079,0,0,-36.75079,0,0,0,0,0,-36.75079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 28JAN26 495 C,0,0,-9.75079,0,0,-9.75079,0,0,0,0,0,-9.75079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 30JAN26 485 C,0,1322.39671,0,0,0,1322.39671,0,0,0,0,0,1322.39671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 30JAN26 490 C,0,0,-1019.50329,0,0,-1019.50329,0,0,0,0,0,-1019.50329,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 30JAN26 498 C,0,241.24671,0,0,0,241.24671,0,0,0,0,0,241.24671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 02FEB26 495 C,0,0,-418.75329,0,0,-418.75329,0,0,0,0,0,-418.75329,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 395 P,0,0,0,0,0,0,91.54796,0,0,0,91.54796,91.54796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 405 P,0,0,0,0,0,0,0,-135.20875,0,0,-135.20875,-135.20875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 410 P,0,0,0,0,0,0,180.20796,0,0,0,180.20796,180.20796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 425 P,0,0,0,0,0,0,0,-24.63875,0,0,-24.63875,-24.63875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 430 P,0,0,0,0,0,0,31.14796,0,0,0,31.14796,31.14796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 475 C,0,0,0,0,0,0,22.74796,0,0,0,22.74796,22.74796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 480 C,0,0,0,0,0,0,0,-14.64875,0,0,-14.64875,-14.64875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 485 C,0,1438.37921,0,0,0,1438.37921,0,0,0,0,0,1438.37921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 490 C,0,0,-1322.60079,0,0,-1322.60079,21.51796,0,0,0,21.51796,-1301.08283,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 493 C,0,0,-1151.75329,0,0,-1151.75329,0,0,0,0,0,-1151.75329,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 495 C,0,0,0,0,0,0,0,-24.69875,0,0,-24.69875,-24.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 04FEB26 498 C,0,975.24671,0,0,0,975.24671,0,0,0,0,0,975.24671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GLD 06FEB26 400 P,0,0,0,0,0,0,0,-163.69875,0,0,-163.69875,-163.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 21JAN26 252 P,0,0,-5.04875,0,0,-5.04875,0,0,0,0,0,-5.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 21JAN26 257 P,0,18.94796,0,0,0,18.94796,0,0,0,0,0,18.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 21JAN26 270 C,0,1.94796,0,0,0,1.94796,0,0,0,0,0,1.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 21JAN26 275 C,0,0,-2.04875,0,0,-2.04875,0,0,0,0,0,-2.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 23JAN26 259 P,0,0,-4.98875,0,0,-4.98875,0,0,0,0,0,-4.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 23JAN26 264 P,0,5.62921,0,0,0,5.62921,0,0,0,0,0,5.62921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 23JAN26 275 C,0,18.00796,0,0,0,18.00796,0,0,0,0,0,18.00796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 23JAN26 280 C,0,0,-2.98875,0,0,-2.98875,0,0,0,0,0,-2.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 27JAN26 254 P,0,0,-5.51875,0,0,-5.51875,0,0,0,0,0,-5.51875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 27JAN26 259 P,0,11.47796,0,0,0,11.47796,0,0,0,0,0,11.47796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 27JAN26 271 C,0,2.47796,0,0,0,2.47796,0,0,0,0,0,2.47796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 27JAN26 276 C,0,0,-2.51875,0,0,-2.51875,0,0,0,0,0,-2.51875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 29JAN26 252 P,0,0,-5.04875,0,0,-5.04875,0,0,0,0,0,-5.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 29JAN26 257 P,0,12.94796,0,0,0,12.94796,0,0,0,0,0,12.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 29JAN26 269 C,0,10.94796,0,0,0,10.94796,0,0,0,0,0,10.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 29JAN26 274 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 255 C,0,0,0,0,0,0,0,-221.05204,0,0,-221.05204,-221.05204,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 256 C,0,0,0,0,0,0,0,-13.33875,0,0,-13.33875,-13.33875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 256 P,0,0,0,0,0,0,0,-2.54875,0,0,-2.54875,-2.54875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 258 C,0,0,0,0,0,0,46.57592,0,0,0,46.57592,46.57592,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 259 P,0,0,0,0,0,0,0,-0.55204,0,0,-0.55204,-0.55204,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 262 C,0,0,0,0,0,0,0,-51.46875,0,0,-51.46875,-51.46875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 269 C,0,0,0,0,0,0,4.44796,0,0,0,4.44796,4.44796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 04FEB26 272 C,0,0,0,0,0,0,0,-1.88875,0,0,-1.88875,-1.88875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,IWM 05FEB26 258 C,0,0,0,0,0,0,168.46125,0,0,0,168.46125,168.46125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MSFT 06FEB26 402.5 C,0,0,0,0,0,0,0,-13.71204,0,0,-13.71204,-13.71204,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MSFT 09FEB26 407.5 C,0,0,0,0,0,0,9.33125,0,0,0,9.33125,9.33125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 593 P,0,0,-8.16875,0,0,-8.16875,0,0,0,0,0,-8.16875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 598 P,0,13.82796,0,0,0,13.82796,0,0,0,0,0,13.82796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 623 C,0,6.82796,0,0,0,6.82796,0,0,0,0,0,6.82796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 05JAN26 628 C,0,0,-4.16875,0,0,-4.16875,0,0,0,0,0,-4.16875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 600 P,0,0,-6.05125,0,0,-6.05125,0,0,0,0,0,-6.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 605 P,0,8.94546,0,0,0,8.94546,0,0,0,0,0,8.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 627 C,0,8.08671,0,0,0,8.08671,0,0,0,0,0,8.08671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 07JAN26 632 C,0,0,-4.05125,0,0,-4.05125,0,0,0,0,0,-4.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 600 P,0,0,-15.04875,0,0,-15.04875,0,0,0,0,0,-15.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 605 P,0,27.94796,0,0,0,27.94796,0,0,0,0,0,27.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 635 C,0,1.94796,0,0,0,1.94796,0,0,0,0,0,1.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 09JAN26 640 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 604.78 P,0,0,-13.98875,0,0,-13.98875,0,0,0,0,0,-13.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 609.78 P,0,20.00796,0,0,0,20.00796,0,0,0,0,0,20.00796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 636 C,0,6.00796,0,0,0,6.00796,0,0,0,0,0,6.00796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 16JAN26 641 C,0,0,-3.98875,0,0,-3.98875,0,0,0,0,0,-3.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 590 P,0,0,-21.05125,0,0,-21.05125,0,0,0,0,0,-21.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 595 P,0,36.94546,0,0,0,36.94546,0,0,0,0,0,36.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 632 C,0,2.94546,0,0,0,2.94546,0,0,0,0,0,2.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 21JAN26 637 C,0,0,-3.05125,0,0,-3.05125,0,0,0,0,0,-3.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 599 P,0,0,-12.53875,0,0,-12.53875,0,0,0,0,0,-12.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 604 P,0,20.45796,0,0,0,20.45796,0,0,0,0,0,20.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 628 C,0,18.59921,0,0,0,18.59921,0,0,0,0,0,18.59921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 23JAN26 633 C,0,0,-5.53875,0,0,-5.53875,0,0,0,0,0,-5.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 609 P,0,0,-14.05125,0,0,-14.05125,0,0,0,0,0,-14.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 614 P,0,22.94546,0,0,0,22.94546,0,0,0,0,0,22.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 634 C,0,3.08671,0,0,0,3.08671,0,0,0,0,0,3.08671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 27JAN26 639 C,0,0,-3.05125,0,0,-3.05125,0,0,0,0,0,-3.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 614 P,0,0,-21.05125,0,0,-21.05125,0,0,0,0,0,-21.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 619 P,0,37.94546,0,0,0,37.94546,0,0,0,0,0,37.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 639 C,0,29.94546,0,0,0,29.94546,0,0,0,0,0,29.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 28JAN26 644 C,0,0,-5.05125,0,0,-5.05125,0,0,0,0,0,-5.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 615 P,0,0,-42.53875,0,0,-42.53875,0,0,0,0,0,-42.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 620 P,0,79.45796,0,0,0,79.45796,0,0,0,0,0,79.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 645 C,0,20.45796,0,0,0,20.45796,0,0,0,0,0,20.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 29JAN26 650 C,0,0,-7.53875,0,0,-7.53875,0,0,0,0,0,-7.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 607 C,0,0,0,0,0,0,0,-158.65875,0,0,-158.65875,-158.65875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 610 C,0,0,0,0,0,0,276.31592,0,0,0,276.31592,276.31592,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 616 C,0,0,0,0,0,0,0,-109.55875,0,0,-109.55875,-109.55875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 619 C,0,0,-639.24079,0,0,-639.24079,0,0,0,0,0,-639.24079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 622 C,0,1048.91842,0,0,0,1048.91842,0,0,0,0,0,1048.91842,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QQQ 04FEB26 628 C,0,0,-269.24079,0,0,-269.24079,0,0,0,0,0,-269.24079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 07JAN26 62.5 P,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 07JAN26 65 P,0,2.94796,0,0,0,2.94796,0,0,0,0,0,2.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 07JAN26 76 C,0,32.94796,0,0,0,32.94796,0,0,0,0,0,32.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 07JAN26 78.5 C,0,0,-12.04875,0,0,-12.04875,0,0,0,0,0,-12.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 09JAN26 62.5 P,0,0,-8.53875,0,0,-8.53875,0,0,0,0,0,-8.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 09JAN26 64.5 P,0,17.45796,0,0,0,17.45796,0,0,0,0,0,17.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 09JAN26 75.5 C,0,4.45796,0,0,0,4.45796,0,0,0,0,0,4.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 09JAN26 77.5 C,0,0,-4.53875,0,0,-4.53875,0,0,0,0,0,-4.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 14JAN26 71.5 P,0,0,-6.04875,0,0,-6.04875,0,0,0,0,0,-6.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 14JAN26 73.5 P,0,6.94796,0,0,0,6.94796,0,0,0,0,0,6.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 14JAN26 85.5 C,0,19.94796,0,0,0,19.94796,0,0,0,0,0,19.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 14JAN26 87.5 C,0,0,-10.04875,0,0,-10.04875,0,0,0,0,0,-10.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 16JAN26 72.5 P,0,0,-8.04875,0,0,-8.04875,0,0,0,0,0,-8.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 16JAN26 75.5 P,0,16.94796,0,0,0,16.94796,0,0,0,0,0,16.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 16JAN26 87.5 C,0,25.94796,0,0,0,25.94796,0,0,0,0,0,25.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 16JAN26 90.5 C,0,0,-9.04875,0,0,-9.04875,0,0,0,0,0,-9.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 23JAN26 77.5 P,0,0,-9.61158,0,0,-9.61158,0,0,0,0,0,-9.61158,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 23JAN26 79.5 P,0,9.38842,0,0,0,9.38842,0,0,0,0,0,9.38842,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 23JAN26 90.5 C,0,0,-88.21158,0,0,-88.21158,0,0,0,0,0,-88.21158,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 23JAN26 92.5 C,0,10.08842,0,0,0,10.08842,0,0,0,0,0,10.08842,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 28JAN26 77.5 P,0,0,-11.69875,0,0,-11.69875,0,0,0,0,0,-11.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 28JAN26 82.5 P,0,29.29796,0,0,0,29.29796,0,0,0,0,0,29.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 28JAN26 115 C,0,50.29796,0,0,0,50.29796,0,0,0,0,0,50.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 28JAN26 120 C,0,0,-29.69875,0,0,-29.69875,0,0,0,0,0,-29.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 30JAN26 97 C,0,639.72921,0,0,0,639.72921,0,0,0,0,0,639.72921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 30JAN26 102 C,0,0,-319.15079,0,0,-319.15079,0,0,0,0,0,-319.15079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 30JAN26 115 C,0,68.44921,0,0,0,68.44921,0,0,0,0,0,68.44921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 02FEB26 110 C,0,0,-258.25079,0,0,-258.25079,0,0,0,0,0,-258.25079,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 04FEB26 67.5 P,0,0,0,0,0,0,6.6025,0,0,0,6.6025,6.6025,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 04FEB26 70 P,0,0,0,0,0,0,0,-22.28408,0,0,-22.28408,-22.28408,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 04FEB26 89.5 C,0,0,0,0,0,0,30.37592,0,0,0,30.37592,30.37592,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SLV 04FEB26 92 C,0,0,0,0,0,0,0,-18.5975,0,0,-18.5975,-18.5975,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 6845 P,0,0,-213.64125,0,0,-213.64125,0,0,0,0,0,-213.64125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 6850 P,0,226.35875,0,0,0,226.35875,0,0,0,0,0,226.35875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 7025 C,0,19.44875,0,0,0,19.44875,0,0,0,0,0,19.44875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 27JAN26 7030 C,0,0,-18.55125,0,0,-18.55125,0,0,0,0,0,-18.55125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 6870 P,0,0,-175.64125,0,0,-175.64125,0,0,0,0,0,-175.64125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 6875 P,0,183.35875,0,0,0,183.35875,0,0,0,0,0,183.35875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 7055 C,0,37.44875,0,0,0,37.44875,0,0,0,0,0,37.44875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 28JAN26 7060 C,0,0,-31.55125,0,0,-31.55125,0,0,0,0,0,-31.55125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 6865 P,0,0,-162.64125,0,0,-162.64125,0,0,0,0,0,-162.64125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 6870 P,0,172.35875,0,0,0,172.35875,0,0,0,0,0,172.35875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 7050 C,0,27.44875,0,0,0,27.44875,0,0,0,0,0,27.44875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPXW 03FEB26 7055 C,0,0,-23.55125,0,0,-23.55125,0,0,0,0,0,-23.55125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 05JAN26 668 P,0,0,-7.05125,0,0,-7.05125,0,0,0,0,0,-7.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 05JAN26 673 P,0,19.94546,0,0,0,19.94546,0,0,0,0,0,19.94546,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 05JAN26 689 C,0,0,-0.91329,0,0,-0.91329,0,0,0,0,0,-0.91329,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 05JAN26 694 C,0,0,-3.05125,0,0,-3.05125,0,0,0,0,0,-3.05125,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 07JAN26 680 P,0,0,-14.51875,0,0,-14.51875,0,0,0,0,0,-14.51875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 07JAN26 685 P,0,37.47796,0,0,0,37.47796,0,0,0,0,0,37.47796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 07JAN26 695 C,0,4.61921,0,0,0,4.61921,0,0,0,0,0,4.61921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 07JAN26 700 C,0,0,-3.51875,0,0,-3.51875,0,0,0,0,0,-3.51875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 09JAN26 677 P,0,0,-18.53875,0,0,-18.53875,0,0,0,0,0,-18.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 09JAN26 682 P,0,47.45796,0,0,0,47.45796,0,0,0,0,0,47.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 09JAN26 697 C,0,10.40921,0,0,0,10.40921,0,0,0,0,0,10.40921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 09JAN26 702 C,0,0,-3.53875,0,0,-3.53875,0,0,0,0,0,-3.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 14JAN26 678 P,0,0,-9.69875,0,0,-9.69875,0,0,0,0,0,-9.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 14JAN26 683 P,0,19.29796,0,0,0,19.29796,0,0,0,0,0,19.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 14JAN26 701 C,0,8.29796,0,0,0,8.29796,0,0,0,0,0,8.29796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 14JAN26 706 C,0,0,-2.69875,0,0,-2.69875,0,0,0,0,0,-2.69875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 16JAN26 680 P,0,0,-12.98875,0,0,-12.98875,0,0,0,0,0,-12.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 16JAN26 685 P,0,22.00796,0,0,0,22.00796,0,0,0,0,0,22.00796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 16JAN26 704 C,0,1.00796,0,0,0,1.00796,0,0,0,0,0,1.00796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 16JAN26 709 C,0,0,-1.98875,0,0,-1.98875,0,0,0,0,0,-1.98875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 21JAN26 662 P,0,0,-12.53875,0,0,-12.53875,0,0,0,0,0,-12.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 21JAN26 667 P,0,24.45796,0,0,0,24.45796,0,0,0,0,0,24.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 21JAN26 695 C,0,1.45796,0,0,0,1.45796,0,0,0,0,0,1.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 21JAN26 700 C,0,0,-3.53875,0,0,-3.53875,0,0,0,0,0,-3.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 23JAN26 674 P,0,0,-18.04875,0,0,-18.04875,0,0,0,0,0,-18.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 23JAN26 679 P,0,40.94796,0,0,0,40.94796,0,0,0,0,0,40.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 23JAN26 698 C,0,6.94796,0,0,0,6.94796,0,0,0,0,0,6.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 23JAN26 703 C,0,0,-4.04875,0,0,-4.04875,0,0,0,0,0,-4.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 27JAN26 679 P,0,0,-16.53875,0,0,-16.53875,0,0,0,0,0,-16.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 27JAN26 684 P,0,28.45796,0,0,0,28.45796,0,0,0,0,0,28.45796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 27JAN26 699 C,0,0.40921,0,0,0,0.40921,0,0,0,0,0,0.40921,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 27JAN26 704 C,0,0,-3.53875,0,0,-3.53875,0,0,0,0,0,-3.53875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 28JAN26 680 P,0,0,-15.04875,0,0,-15.04875,0,0,0,0,0,-15.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 28JAN26 685 P,0,24.94796,0,0,0,24.94796,0,0,0,0,0,24.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 28JAN26 703 C,0,8.94796,0,0,0,8.94796,0,0,0,0,0,8.94796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 28JAN26 708 C,0,0,-3.04875,0,0,-3.04875,0,0,0,0,0,-3.04875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 29JAN26 678 P,0,0,-10.94875,0,0,-10.94875,0,0,0,0,0,-10.94875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 29JAN26 683 P,0,24.04796,0,0,0,24.04796,0,0,0,0,0,24.04796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 29JAN26 709 C,0,0.04796,0,0,0,0.04796,0,0,0,0,0,0.04796,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 29JAN26 714 C,0,0,-1.94875,0,0,-1.94875,0,0,0,0,0,-1.94875,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 30JAN26 680 P,0,12.24671,0,0,0,12.24671,0,0,0,0,0,12.24671,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 02FEB26 685 P,0,0,-29.75329,0,0,-29.75329,0,0,0,0,0,-29.75329,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 05FEB26 685 C,0,0,0,0,0,0,0,-115.62204,0,0,-115.62204,-115.62204,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SPY 06FEB26 690 C,0,0,0,0,0,0,66.06125,0,0,0,66.06125,66.06125,
+Realized & Unrealized Performance Summary,Data,Total,,0,8369.6828,-7272.51414,0,0,1097.16866,955.34177,-1092.17599,0,0,-136.83422,960.33444,
+Realized & Unrealized Performance Summary,Data,Forex,TRY,0,0,-1.997787,0,0,-1.997787,0,0,0,0,0,-1.997787,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,-1.997787,0,0,-1.997787,0.000002,0,0,0,0.000002,-1.997785,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,8374.250855,-7791.706182,0,0,582.544673,955.341772,-1400.51599,0,0,-445.174218,137.370455,
+Cash Report,Header,Currency Summary,Currency,Total,Securities,Futures,
+Cash Report,Data,Starting Cash,Base Currency Summary,5280.887283332,5280.887283332,0,
+Cash Report,Data,Commissions,Base Currency Summary,-278.27883,-278.27883,0,
+Cash Report,Data,Deposits,Base Currency Summary,138.63,138.63,0,
+Cash Report,Data,Trades (Sales),Base Currency Summary,67056.10521283,67056.10521283,0,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-68243.78013746,-68243.78013746,0,
+Cash Report,Data,Other Fees,Base Currency Summary,-1.5,-1.5,0,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,0.00013732,0.00013732,0,
+Cash Report,Data,Ending Cash,Base Currency Summary,3952.063666018,3952.063666018,0,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,2993.063666018,2993.063666018,0,
+Cash Report,Data,Starting Cash,TRY,0,0,0,
+Cash Report,Data,Deposits,TRY,6000,6000,0,
+Cash Report,Data,Trades (Purchase),TRY,-6000,-6000,0,
+Cash Report,Data,Ending Cash,TRY,0,0,0,
+Cash Report,Data,Ending Settled Cash,TRY,0,0,0,
+Cash Report,Data,Starting Cash,USD,5280.887307889,5280.887307889,0,
+Cash Report,Data,Commissions,USD,-278.27883,-278.27883,0,
+Cash Report,Data,Trades (Sales),USD,67056.10521283,67056.10521283,0,
+Cash Report,Data,Trades (Purchase),USD,-68105.15,-68105.15,0,
+Cash Report,Data,Other Fees,USD,-1.5,-1.5,0,
+Cash Report,Data,Ending Cash,USD,3952.063690716,3952.063690716,0,
+Cash Report,Data,Ending Settled Cash,USD,2993.063690716,2993.063690716,0,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Stocks,USD,MSFT,7,1,455.258571429,3186.81,411.21,2878.47,-308.34,
+Open Positions,Total,,Stocks,USD,,,,,3186.81,,2878.47,-308.34,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 395 P,-1,100,0.9529796,-95.29796,0.0375,-3.75,91.54796,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 405 P,1,100,1.4269875,142.69875,0.0749,7.49,-135.20875,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 410 P,-1,100,1.9129796,-191.29796,0.1109,-11.09,180.20796,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 425 P,1,100,0.5904875,59.04875,0.3441,34.41,-24.63875,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 430 P,-1,100,0.8494796,-84.94796,0.538,-53.8,31.14796,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 475 C,-1,100,0.7094796,-70.94796,0.482,-48.2,22.74796,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 480 C,1,100,0.4604875,46.04875,0.314,31.4,-14.64875,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 490 C,-1,100,0.3529796,-35.29796,0.1378,-13.78,21.51796,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 04FEB26 495 C,1,100,0.3469875,34.69875,0.1,10,-24.69875,
+Open Positions,Data,Summary,Equity and Index Options,USD,GLD 06FEB26 400 P,1,100,2.0169875,201.69875,0.38,38,-163.69875,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 255 C,-1,100,5.6729796,-567.29796,7.8835,-788.35,-221.05204,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 256 C,1,100,7.0369875,703.69875,6.9036,690.36,-13.33875,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 256 P,1,100,0.1004875,10.04875,0.075,7.5,-2.54875,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 258 C,-2,100,5.2264796,-1045.29592,4.9936,-998.72,46.57592,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 259 P,-1,100,0.2494796,-24.94796,0.255,-25.5,-0.55204,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 262 C,1,100,2.2569875,225.69875,1.7423,174.23,-51.46875,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 269 C,-1,100,0.0694796,-6.94796,0.025,-2.5,4.44796,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 04FEB26 272 C,1,100,0.0304875,3.04875,0.0116,1.16,-1.88875,
+Open Positions,Data,Summary,Equity and Index Options,USD,IWM 05FEB26 258 C,1,100,3.6269875,362.69875,5.3116,531.16,168.46125,
+Open Positions,Data,Summary,Equity and Index Options,USD,MSFT 06FEB26 402.5 C,-1,100,10.7229796,-1072.29796,10.8601,-1086.01,-13.71204,
+Open Positions,Data,Summary,Equity and Index Options,USD,MSFT 09FEB26 407.5 C,1,100,8.1369875,813.69875,8.2303,823.03,9.33125,
+Open Positions,Data,Summary,Equity and Index Options,USD,QQQ 04FEB26 607 C,1,100,12.0069875,1200.69875,10.4204,1042.04,-158.65875,
+Open Positions,Data,Summary,Equity and Index Options,USD,QQQ 04FEB26 610 C,-2,100,9.2764796,-1855.29592,7.8949,-1578.98,276.31592,
+Open Positions,Data,Summary,Equity and Index Options,USD,QQQ 04FEB26 616 C,1,100,4.7569875,475.69875,3.6614,366.14,-109.55875,
+Open Positions,Data,Summary,Equity and Index Options,USD,SLV 04FEB26 67.5 P,2,100,0.1169875,23.3975,0.15,30,6.6025,
+Open Positions,Data,Summary,Equity and Index Options,USD,SLV 04FEB26 70 P,-2,100,0.1829796,-36.59592,0.2944,-58.88,-22.28408,
+Open Positions,Data,Summary,Equity and Index Options,USD,SLV 04FEB26 89.5 C,-2,100,0.2329796,-46.59592,0.0811,-16.22,30.37592,
+Open Positions,Data,Summary,Equity and Index Options,USD,SLV 04FEB26 92 C,2,100,0.1469875,29.3975,0.054,10.8,-18.5975,
+Open Positions,Data,Summary,Equity and Index Options,USD,SPY 05FEB26 685 C,-1,100,5.5400796,-554.00796,6.6963,-669.63,-115.62204,
+Open Positions,Data,Summary,Equity and Index Options,USD,SPY 06FEB26 690 C,1,100,3.5498875,354.98875,4.2105,421.05,66.06125,
+Open Positions,Total,,Equity and Index Options,USD,,,,,-999.80578,,-1136.64,-136.83422,
+Net Stock Position Summary,Header,Asset Category,Currency,Symbol,Description,Shares at IB,Shares Borrowed,Shares Lent,Net Shares
+Net Stock Position Summary,Data,Stocks,USD,MSFT,MICROSOFT CORP,7,0,0,7
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,AA,"2026-01-07, 09:54:57",1,62.06,62.74,-62.06,-0.6206,62.6806,0,0.68,O
+Trades,Data,Order,Stocks,USD,AA,"2026-01-28, 12:59:08",-2,59.785,60.01,119.57,-1.00039,-117.39735,1.17226,-0.45,C
+Trades,SubTotal,,Stocks,USD,AA,,-1,,,57.51,-1.62099,-54.71675,1.17226,0.23,
+Trades,Data,Order,Stocks,USD,GLD,"2026-01-28, 16:20:00",-100,481,494.56,48100,-0.0195,-48612.69875,-485.42029,-1356,A;C
+Trades,Data,Order,Stocks,USD,GLD,"2026-01-28, 16:20:00",100,486,494.56,-48600,0,48600,0,856,Ex;O
+Trades,SubTotal,,Stocks,USD,GLD,,0,,,-500,-0.0195,-12.69875,-485.42029,-500,
+Trades,Data,Order,Stocks,USD,MSFT,"2026-01-26, 12:06:15",4,473.59,470.28,-1894.36,-1,1895.36,0,-13.24,O
+Trades,Data,Order,Stocks,USD,MSFT,"2026-01-29, 09:30:01",1,440,433.5,-440,-1,441,0,-6.5,O
+Trades,Data,Order,Stocks,USD,MSFT,"2026-01-29, 11:42:30",2,424.725,433.5,-849.45,-1,850.45,0,17.55,O
+Trades,SubTotal,,Stocks,USD,MSFT,,7,,,-3183.81,-3,3186.81,0,-2.19,
+Trades,Data,Order,Stocks,USD,SOLV,"2026-01-02, 15:24:32",4,79.15,79.02,-316.6,-1,317.6,0,-0.52,O
+Trades,Data,Order,Stocks,USD,SOLV,"2026-01-07, 09:55:57",2,84.34,84.24,-168.68,-1,169.68,0,-0.2,O
+Trades,Data,Order,Stocks,USD,SOLV,"2026-01-28, 12:57:59",-6,76.6505,76.6,459.903,-1.00117,-487.28,-28.37817,0.303,C;IA;SL
+Trades,SubTotal,,Stocks,USD,SOLV,,0,,,-25.377,-3.00117,0,-28.37817,-0.417,
+Trades,Total,,Stocks,USD,,,,,,-3651.677,-7.64166,3119.3945,-512.6262,-502.377, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Equity and Index Options,USD,DE 15JAN27 300 P,"2026-01-14, 14:33:40",-2,3.45,3.5375,690,-1.40908,-688.59092,0,-17.5,O
+Trades,Data,Order,Equity and Index Options,USD,DE 15JAN27 300 P,"2026-01-23, 13:10:09",2,4.09,3.6277,-818,-1.4025,688.59092,-130.81158,-92.46,C
+Trades,SubTotal,,Equity and Index Options,USD,DE 15JAN27 300 P,,0,,,-128,-2.81158,0,-130.81158,-109.96,
+Trades,Data,Order,Equity and Index Options,USD,DE 15JAN27 310 P,"2026-01-14, 14:33:40",1,4.09,4.2778,-409,-1.05125,410.05125,0,18.78,O
+Trades,Data,Order,Equity and Index Options,USD,DE 15JAN27 310 P,"2026-01-23, 13:10:09",-1,5.21,4.32,521,-1.05454,-410.05125,109.89421,89,C
+Trades,SubTotal,,Equity and Index Options,USD,DE 15JAN27 310 P,,0,,,112,-2.10579,0,109.89421,107.78,
+Trades,Data,Order,Equity and Index Options,USD,ENPH 20MAR26 30 C,"2026-01-22, 10:48:38",-1,10,11.4294,1000,-1.05454,-546.6959,452.24956,-142.94,C
+Trades,SubTotal,,Equity and Index Options,USD,ENPH 20MAR26 30 C,,-1,,,1000,-1.05454,-546.6959,452.24956,-142.94,
+Trades,Data,Order,Equity and Index Options,USD,ENPH 20MAR26 35 C,"2026-01-22, 10:48:38",1,6.5,7.5674,-650,-1.05125,359.30131,-291.74994,106.74,C
+Trades,SubTotal,,Equity and Index Options,USD,ENPH 20MAR26 35 C,,1,,,-650,-1.05125,359.30131,-291.74994,106.74,
+Trades,Data,Order,Equity and Index Options,USD,ENPH 20MAR26 17.5 P,"2026-01-22, 10:48:38",-1,0.15,0.0083,15,-1.05454,-46.6959,-32.75044,14.17,C
+Trades,SubTotal,,Equity and Index Options,USD,ENPH 20MAR26 17.5 P,,-1,,,15,-1.05454,-46.6959,-32.75044,14.17,
+Trades,Data,Order,Equity and Index Options,USD,ENPH 20MAR26 22.5 P,"2026-01-22, 10:48:38",1,0.12,0.0996,-12,-1.05125,150.30131,137.25006,-2.04,C
+Trades,SubTotal,,Equity and Index Options,USD,ENPH 20MAR26 22.5 P,,1,,,-12,-1.05125,150.30131,137.25006,-2.04,
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 415 C,"2026-01-02, 13:44:06",-1,0.03,0.0336,3,-1.05454,-1.94546,0,-0.36,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 415 C,"2026-01-05, 16:20:00",1,0,0,0,0,1.94546,1.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 05JAN26 415 C,,0,,,3,-1.05454,0,1.94546,-0.36,
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 420 C,"2026-01-02, 13:44:06",1,0.02,0.0273,-2,-1.05125,3.05125,0,0.73,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 420 C,"2026-01-05, 16:20:00",-1,0,0,0,0,-3.05125,-3.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 05JAN26 420 C,,0,,,-2,-1.05125,0,-3.05125,0.73,
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 382 P,"2026-01-02, 13:44:06",1,0.19,0.11,-19,-1.05125,20.05125,0,-8,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 382 P,"2026-01-05, 16:20:00",-1,0,0,0,0,-20.05125,-20.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 05JAN26 382 P,,0,,,-19,-1.05125,0,-20.05125,-8,
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 387 P,"2026-01-02, 13:44:06",-1,0.35,0.2016,35,-1.05454,-33.94546,0,14.84,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 05JAN26 387 P,"2026-01-05, 16:20:00",1,0,0,0,0,33.94546,33.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 05JAN26 387 P,,0,,,35,-1.05454,0,33.94546,14.84,
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 419 C,"2026-01-06, 10:57:10",-1,0.14,0.215,14,-1.05454,-12.94546,0,-7.5,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 419 C,"2026-01-07, 16:20:00",1,0,0,0,0,12.94546,12.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 07JAN26 419 C,,0,,,14,-1.05454,0,12.94546,-7.5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 424 C,"2026-01-06, 10:57:10",1,0.02,0.0157,-2,-1.05125,3.05125,0,-0.43,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 424 C,"2026-01-07, 16:20:00",-1,0,0,0,0,-3.05125,-3.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 07JAN26 424 C,,0,,,-2,-1.05125,0,-3.05125,-0.43,
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 392 P,"2026-01-06, 10:57:10",1,0.04,0.0286,-4,-1.05125,5.05125,0,-1.14,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 392 P,"2026-01-07, 16:20:00",-1,0,0,0,0,-5.05125,-5.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 07JAN26 392 P,,0,,,-4,-1.05125,0,-5.05125,-1.14,
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 397 P,"2026-01-06, 10:57:10",-1,0.08,0.0427,8,-1.05454,-6.94546,0,3.73,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 07JAN26 397 P,"2026-01-07, 16:20:00",1,0,0,0,0,6.94546,6.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 07JAN26 397 P,,0,,,8,-1.05454,0,6.94546,3.73,
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 418 C,"2026-01-08, 10:40:32",-1,0.18,0.325,18,-1.05204,-16.94796,0,-14.5,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 418 C,"2026-01-09, 16:20:00",1,0,0,0,0,16.94796,16.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 09JAN26 418 C,,0,,,18,-1.05204,0,16.94796,-14.5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 423 C,"2026-01-08, 10:40:32",1,0.02,0.0463,-2,-1.04875,3.04875,0,2.63,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 423 C,"2026-01-09, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 09JAN26 423 C,,0,,,-2,-1.04875,0,-3.04875,2.63,
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 393 P,"2026-01-08, 10:40:32",1,0.09,0.0407,-9,-1.04875,10.04875,0,-4.93,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 393 P,"2026-01-09, 16:20:00",-1,0,0,0,0,-10.04875,-10.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 09JAN26 393 P,,0,,,-9,-1.04875,0,-10.04875,-4.93,
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 398 P,"2026-01-08, 10:40:32",-1,0.18,0.0888,18,-1.05204,-16.94796,0,9.12,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 09JAN26 398 P,"2026-01-09, 16:20:00",1,0,0,0,0,16.94796,16.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 09JAN26 398 P,,0,,,18,-1.05204,0,16.94796,9.12,
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 435 C,"2026-01-13, 10:18:49",-1,0.08,0.03,8,-1.05204,-6.94796,0,5,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 435 C,"2026-01-14, 16:20:00",1,0,0,0,0,6.94796,6.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 14JAN26 435 C,,0,,,8,-1.05204,0,6.94796,5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 440 C,"2026-01-13, 10:18:49",1,0.02,0.0159,-2,-1.04875,3.04875,0,-0.41,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 440 C,"2026-01-14, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 14JAN26 440 C,,0,,,-2,-1.04875,0,-3.04875,-0.41,
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 409 P,"2026-01-13, 10:18:49",1,0.1,0.1031,-10,-1.04875,11.04875,0,0.31,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 409 P,"2026-01-14, 16:20:00",-1,0,0,0,0,-11.04875,-11.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 14JAN26 409 P,,0,,,-10,-1.04875,0,-11.04875,0.31,
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 414 P,"2026-01-13, 10:18:49",-1,0.26,0.38,26,-1.05204,-24.94796,0,-12,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 14JAN26 414 P,"2026-01-14, 16:20:00",1,0,0,0,0,24.94796,24.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 14JAN26 414 P,,0,,,26,-1.05204,0,24.94796,-12,
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 436 C,"2026-01-15, 10:31:08",-1,0.05,0.0286,5,-1.05204,-3.94796,0,2.14,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 436 C,"2026-01-16, 16:20:00",1,0,0,0,0,3.94796,3.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 16JAN26 436 C,,0,,,5,-1.05204,0,3.94796,2.14,
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 441 C,"2026-01-15, 10:31:08",1,0.02,0.0189,-2,-1.04875,3.04875,0,-0.11,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 441 C,"2026-01-16, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 16JAN26 441 C,,0,,,-2,-1.04875,0,-3.04875,-0.11,
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 409 P,"2026-01-15, 10:31:08",1,0.08,0.0902,-8,-1.04875,9.04875,0,1.02,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 409 P,"2026-01-16, 16:20:00",-1,0,0,0,0,-9.04875,-9.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 16JAN26 409 P,,0,,,-8,-1.04875,0,-9.04875,1.02,
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 414 P,"2026-01-15, 10:31:08",-1,0.18,0.2565,18,-1.05204,-16.94796,0,-7.65,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 16JAN26 414 P,"2026-01-16, 16:20:00",1,0,0,0,0,16.94796,16.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 16JAN26 414 P,,0,,,18,-1.05204,0,16.94796,-7.65,
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 461 C,"2026-01-22, 09:59:54",-1,0.13,0.575,13,-0.70204,-12.29796,0,-44.5,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 461 C,"2026-01-23, 16:20:00",1,0,0,0,0,12.29796,12.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 23JAN26 461 C,,0,,,13,-0.70204,0,12.29796,-44.5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 466 C,"2026-01-22, 09:59:54",1,0.1,0.1838,-10,-0.69875,10.69875,0,8.38,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 466 C,"2026-01-23, 16:20:00",-1,0,0,0,0,-10.69875,-10.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 23JAN26 466 C,,0,,,-10,-0.69875,0,-10.69875,8.38,
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 429 P,"2026-01-22, 09:59:54",1,0.18,0.1091,-18,-0.69875,18.69875,0,-7.09,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 429 P,"2026-01-23, 16:20:00",-1,0,0,0,0,-18.69875,-18.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 23JAN26 429 P,,0,,,-18,-0.69875,0,-18.69875,-7.09,
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 434 P,"2026-01-22, 09:59:54",-1,0.45,0.177,45,-0.70204,-44.29796,0,27.3,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 23JAN26 434 P,"2026-01-23, 16:20:00",1,0,0,0,0,44.29796,44.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 23JAN26 434 P,,0,,,45,-0.70204,0,44.29796,27.3,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 481 C,"2026-01-27, 11:24:16",-1,0.28,2.8535,28,-0.70204,-27.29796,0,-257.35,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 481 C,"2026-01-28, 16:20:00",1,0,13.56,0,0,27.29796,0,1356,A;C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 481 C,,0,,,28,-0.70204,0,0,1098.65,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 486 C,"2026-01-27, 11:24:16",1,0.12,1.3463,-12,-0.69875,12.69875,0,122.63,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 486 C,"2026-01-28, 16:20:00",-1,0,8.56,0,0,-12.69875,0,-856,C;Ex
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 486 C,,0,,,-12,-0.69875,0,0,-733.37,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 490 C,"2026-01-26, 09:48:14",-1,0.37,0.165,37,-1.05204,-35.94796,0,20.5,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 490 C,"2026-01-28, 10:08:05",1,0.72,4.56,-72,-0.69875,35.94796,-36.75079,384,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 490 C,,0,,,-35,-1.75079,0,-36.75079,404.5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 495 C,"2026-01-26, 09:48:14",1,0.2,0.0862,-20,-1.04875,21.04875,0,-11.38,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 495 C,"2026-01-28, 10:08:05",-1,0.12,0,12,-0.70204,-21.04875,-9.75079,12,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 495 C,,0,,,-8,-1.75079,0,-9.75079,0.62,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 438 P,"2026-01-26, 09:48:14",1,0.23,0.2623,-23,-1.04875,24.04875,0,3.23,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 438 P,"2026-01-28, 10:08:05",-1,0.17,0,17,-0.70204,-24.04875,-7.75079,17,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 438 P,,0,,,-6,-1.75079,0,-7.75079,20.23,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 443 P,"2026-01-26, 09:48:14",-1,0.36,0.4485,36,-1.05204,-34.94796,0,-8.85,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 443 P,"2026-01-28, 10:08:05",1,0.07,0,-7,-0.69875,34.94796,27.24921,-7,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 443 P,,0,,,29,-1.75079,0,27.24921,-15.85,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 444 P,"2026-01-27, 11:24:16",1,0.15,0.0824,-15,-0.69875,15.69875,0,-6.76,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 444 P,"2026-01-28, 16:20:00",-1,0,0,0,0,-15.69875,-15.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 444 P,,0,,,-15,-0.69875,0,-15.69875,-6.76,
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 449 P,"2026-01-27, 11:24:16",-1,0.25,0.1133,25,-0.70204,-24.29796,0,13.67,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 28JAN26 449 P,"2026-01-28, 16:20:00",1,0,0,0,0,24.29796,24.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,GLD 28JAN26 449 P,,0,,,25,-0.70204,0,24.29796,13.67,
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 485 C,"2026-01-29, 12:44:32",-1,13.35,14.1335,1335,-1.05454,-1333.94546,0,-78.35,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 485 C,"2026-01-30, 12:57:45",1,0.1,0,-10,-1.54875,1333.94546,1322.39671,-10,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 30JAN26 485 C,,0,,,1325,-2.60329,0,1322.39671,-88.35,
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 490 C,"2026-01-29, 12:44:32",1,10.21,10.6233,-1021,-1.05125,1022.05125,0,41.33,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 490 C,"2026-01-30, 12:57:45",-1,0.04,0,4,-1.45204,-1022.05125,-1019.50329,4,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 30JAN26 490 C,,0,,,-1017,-2.50329,0,-1019.50329,45.33,
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 498 C,"2026-01-28, 14:02:03",-1,2.46,6.9516,246,-0.70204,-245.29796,0,-449.16,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 30JAN26 498 C,"2026-01-30, 12:57:12",1,0.03,0,-3,-1.05125,245.29796,241.24671,-3,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 30JAN26 498 C,,0,,,243,-1.75329,0,241.24671,-452.16,
+Trades,Data,Order,Equity and Index Options,USD,GLD 02FEB26 495 C,"2026-01-28, 14:02:03",1,4.66,10.2625,-466,-0.69875,466.69875,0,560.25,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 02FEB26 495 C,"2026-01-30, 12:57:12",-1,0.49,0.2958,49,-1.05454,-466.69875,-418.75329,19.42,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 02FEB26 495 C,,0,,,-417,-1.75329,0,-418.75329,579.67,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 475 C,"2026-02-03, 10:36:53",-1,0.72,0.482,72,-1.05204,-70.94796,0,23.8,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 475 C,,-1,,,72,-1.05204,-70.94796,0,23.8,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 480 C,"2026-02-03, 10:36:53",1,0.45,0.314,-45,-1.04875,46.04875,0,-13.6,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 480 C,,1,,,-45,-1.04875,46.04875,0,-13.6,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 485 C,"2026-01-29, 12:39:48",-1,19.75,20.714,1975,-1.05204,-1973.94796,0,-96.4,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 485 C,"2026-01-30, 10:12:54",1,5.35,1.9154,-535,-0.56875,1973.94796,1438.37921,-343.46,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 485 C,,0,,,1440,-1.62079,0,1438.37921,-439.86,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 490 C,"2026-01-29, 12:39:48",1,17,17.7411,-1700,-1.04875,1701.04875,0,74.11,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 490 C,"2026-01-30, 10:12:54",-1,3.8,1.4937,380,-1.55204,-1701.04875,-1322.60079,230.63,C
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 490 C,"2026-02-02, 09:44:12",-1,0.36,0.1209,36,-0.70204,-35.29796,0,23.91,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 490 C,,-1,,,-1284,-3.30283,-35.29796,-1322.60079,328.65,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 493 C,"2026-01-29, 13:14:03",1,14.51,16.126,-1451,-0.69875,1451.69875,0,161.6,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 493 C,"2026-01-30, 10:09:58",-1,3.01,1.2737,301,-1.05454,-1451.69875,-1151.75329,173.63,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 493 C,,0,,,-1150,-1.75329,0,-1151.75329,335.23,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 495 C,"2026-02-02, 09:44:12",1,0.34,0.0985,-34,-0.69875,34.69875,0,-24.15,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 495 C,,1,,,-34,-0.69875,34.69875,0,-24.15,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 498 C,"2026-01-29, 13:14:03",-1,12.2,13.5494,1220,-0.70204,-1219.29796,0,-134.94,O
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 498 C,"2026-01-30, 10:09:58",1,2.43,1.0595,-243,-1.05125,1219.29796,975.24671,-137.05,C
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 498 C,,0,,,977,-1.75329,0,975.24671,-271.99,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 395 P,"2026-02-02, 10:01:09",-1,0.96,0.635,96,-0.70204,-95.29796,0,32.5,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 395 P,,-1,,,96,-0.70204,-95.29796,0,32.5,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 405 P,"2026-02-02, 09:44:12",1,1.42,1.2058,-142,-0.69875,142.69875,0,-21.42,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 405 P,,1,,,-142,-0.69875,142.69875,0,-21.42,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 410 P,"2026-02-02, 09:44:12",-1,1.92,1.8579,192,-0.70204,-191.29796,0,6.21,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 410 P,,-1,,,192,-0.70204,-191.29796,0,6.21,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 425 P,"2026-02-03, 10:36:53",1,0.58,0.3441,-58,-1.04875,59.04875,0,-23.59,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 425 P,,1,,,-58,-1.04875,59.04875,0,-23.59,
+Trades,Data,Order,Equity and Index Options,USD,GLD 04FEB26 430 P,"2026-02-03, 10:36:53",-1,0.86,0.538,86,-1.05204,-84.94796,0,32.2,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 04FEB26 430 P,,-1,,,86,-1.05204,-84.94796,0,32.2,
+Trades,Data,Order,Equity and Index Options,USD,GLD 06FEB26 400 P,"2026-02-02, 10:01:09",1,2.01,1.6363,-201,-0.69875,201.69875,0,-37.37,O
+Trades,SubTotal,,Equity and Index Options,USD,GLD 06FEB26 400 P,,1,,,-201,-0.69875,201.69875,0,-37.37,
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 270 C,"2026-01-20, 13:50:36",-1,0.03,0.0154,3,-1.05204,-1.94796,0,1.46,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 270 C,"2026-01-21, 16:20:00",1,0,0,0,0,1.94796,1.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 21JAN26 270 C,,0,,,3,-1.05204,0,1.94796,1.46,
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 275 C,"2026-01-20, 13:50:36",1,0.01,0.0103,-1,-1.04875,2.04875,0,0.03,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 275 C,"2026-01-21, 16:20:00",-1,0,0,0,0,-2.04875,-2.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 21JAN26 275 C,,0,,,-1,-1.04875,0,-2.04875,0.03,
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 252 P,"2026-01-20, 13:50:36",1,0.04,0.0255,-4,-1.04875,5.04875,0,-1.45,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 252 P,"2026-01-21, 16:20:00",-1,0,0,0,0,-5.04875,-5.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 21JAN26 252 P,,0,,,-4,-1.04875,0,-5.04875,-1.45,
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 257 P,"2026-01-20, 13:50:36",-1,0.2,0.155,20,-1.05204,-18.94796,0,4.5,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 21JAN26 257 P,"2026-01-21, 16:20:00",1,0,0,0,0,18.94796,18.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 21JAN26 257 P,,0,,,20,-1.05204,0,18.94796,4.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 275 C,"2026-01-22, 10:32:24",-1,0.19,0.035,19,-0.99204,-18.00796,0,15.5,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 275 C,"2026-01-23, 16:20:00",1,0,0,0,0,18.00796,18.00796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 23JAN26 275 C,,0,,,19,-0.99204,0,18.00796,15.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 280 C,"2026-01-22, 10:32:24",1,0.02,0.002,-2,-0.98875,2.98875,0,-1.8,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 280 C,"2026-01-23, 16:20:00",-1,0,0,0,0,-2.98875,-2.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 23JAN26 280 C,,0,,,-2,-0.98875,0,-2.98875,-1.8,
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 259 P,"2026-01-22, 10:32:24",1,0.04,0.0187,-4,-0.98875,4.98875,0,-2.13,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 259 P,"2026-01-23, 16:20:00",-1,0,0,0,0,-4.98875,-4.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 23JAN26 259 P,,0,,,-4,-0.98875,0,-4.98875,-2.13,
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 264 P,"2026-01-22, 10:32:24",-1,0.1,0.065,10,-0.99204,-9.00796,0,3.5,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 23JAN26 264 P,"2026-01-23, 16:01:00",1,0.02,0,-2,-1.37875,9.00796,5.62921,-2,C;L
+Trades,SubTotal,,Equity and Index Options,USD,IWM 23JAN26 264 P,,0,,,8,-2.37079,0,5.62921,1.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 271 C,"2026-01-26, 10:29:38",-1,0.04,0.0151,4,-1.52204,-2.47796,0,2.49,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 271 C,"2026-01-27, 16:20:00",1,0,0,0,0,2.47796,2.47796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 27JAN26 271 C,,0,,,4,-1.52204,0,2.47796,2.49,
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 276 C,"2026-01-26, 10:29:38",1,0.01,0.0002,-1,-1.51875,2.51875,0,-0.98,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 276 C,"2026-01-27, 16:20:00",-1,0,0,0,0,-2.51875,-2.51875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 27JAN26 276 C,,0,,,-1,-1.51875,0,-2.51875,-0.98,
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 254 P,"2026-01-26, 10:29:38",1,0.04,0.0209,-4,-1.51875,5.51875,0,-1.91,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 254 P,"2026-01-27, 16:20:00",-1,0,0,0,0,-5.51875,-5.51875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 27JAN26 254 P,,0,,,-4,-1.51875,0,-5.51875,-1.91,
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 259 P,"2026-01-26, 10:29:38",-1,0.13,0.075,13,-1.52204,-11.47796,0,5.5,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 27JAN26 259 P,"2026-01-27, 16:20:00",1,0,0,0,0,11.47796,11.47796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 27JAN26 259 P,,0,,,13,-1.52204,0,11.47796,5.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 269 C,"2026-01-28, 14:34:04",-1,0.12,0.0339,12,-1.05204,-10.94796,0,8.61,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 269 C,"2026-01-29, 16:20:00",1,0,0,0,0,10.94796,10.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 29JAN26 269 C,,0,,,12,-1.05204,0,10.94796,8.61,
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 274 C,"2026-01-28, 14:34:04",1,0.02,0.0086,-2,-1.04875,3.04875,0,-1.14,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 274 C,"2026-01-29, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 29JAN26 274 C,,0,,,-2,-1.04875,0,-3.04875,-1.14,
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 252 P,"2026-01-28, 14:34:04",1,0.04,0.0164,-4,-1.04875,5.04875,0,-2.36,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 252 P,"2026-01-29, 16:20:00",-1,0,0,0,0,-5.04875,-5.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 29JAN26 252 P,,0,,,-4,-1.04875,0,-5.04875,-2.36,
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 257 P,"2026-01-28, 14:34:04",-1,0.14,0.0621,14,-1.05204,-12.94796,0,7.79,O
+Trades,Data,Order,Equity and Index Options,USD,IWM 29JAN26 257 P,"2026-01-29, 16:20:00",1,0,0,0,0,12.94796,12.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,IWM 29JAN26 257 P,,0,,,14,-1.05204,0,12.94796,7.79,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 255 C,"2026-02-03, 12:41:56",-1,5.68,7.8835,568,-0.70204,-567.29796,0,-220.35,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 255 C,,-1,,,568,-0.70204,-567.29796,0,-220.35,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 256 C,"2026-02-02, 10:50:48",1,7.03,6.4089,-703,-0.69875,703.69875,0,-62.11,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 256 C,,1,,,-703,-0.69875,703.69875,0,-62.11,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 258 C,"2026-02-02, 10:50:48",-2,5.23,4.5888,1046,-0.70408,-1045.29592,0,128.24,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 258 C,,-2,,,1046,-0.70408,-1045.29592,0,128.24,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 262 C,"2026-02-02, 10:50:48",1,2.25,1.67,-225,-0.69875,225.69875,0,-58,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 262 C,,1,,,-225,-0.69875,225.69875,0,-58,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 269 C,"2026-02-03, 11:18:28",-1,0.08,0.025,8,-1.05204,-6.94796,0,5.5,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 269 C,,-1,,,8,-1.05204,-6.94796,0,5.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 272 C,"2026-02-03, 11:18:28",1,0.02,0.0116,-2,-1.04875,3.04875,0,-0.84,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 272 C,,1,,,-2,-1.04875,3.04875,0,-0.84,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 256 P,"2026-02-03, 11:18:28",1,0.09,0.075,-9,-1.04875,10.04875,0,-1.5,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 256 P,,1,,,-9,-1.04875,10.04875,0,-1.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 04FEB26 259 P,"2026-02-03, 11:18:28",-1,0.26,0.255,26,-1.05204,-24.94796,0,0.5,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 04FEB26 259 P,,-1,,,26,-1.05204,-24.94796,0,0.5,
+Trades,Data,Order,Equity and Index Options,USD,IWM 05FEB26 258 C,"2026-02-03, 12:41:56",1,3.62,5.3116,-362,-0.69875,362.69875,0,169.16,O
+Trades,SubTotal,,Equity and Index Options,USD,IWM 05FEB26 258 C,,1,,,-362,-0.69875,362.69875,0,169.16,
+Trades,Data,Order,Equity and Index Options,USD,MSFT 06FEB26 402.5 C,"2026-02-03, 13:53:26",-1,10.73,10.8601,1073,-0.70204,-1072.29796,0,-13.01,O
+Trades,SubTotal,,Equity and Index Options,USD,MSFT 06FEB26 402.5 C,,-1,,,1073,-0.70204,-1072.29796,0,-13.01,
+Trades,Data,Order,Equity and Index Options,USD,MSFT 09FEB26 407.5 C,"2026-02-03, 13:53:26",1,8.13,8.2303,-813,-0.69875,813.69875,0,10.03,O
+Trades,SubTotal,,Equity and Index Options,USD,MSFT 09FEB26 407.5 C,,1,,,-813,-0.69875,813.69875,0,10.03,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 623 C,"2026-01-02, 13:48:52",-1,0.08,0.065,8,-1.17204,-6.82796,0,1.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 623 C,"2026-01-05, 16:20:00",1,0,0,0,0,6.82796,6.82796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 05JAN26 623 C,,0,,,8,-1.17204,0,6.82796,1.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 628 C,"2026-01-02, 13:48:52",1,0.03,0.0213,-3,-1.16875,4.16875,0,-0.87,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 628 C,"2026-01-05, 16:20:00",-1,0,0,0,0,-4.16875,-4.16875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 05JAN26 628 C,,0,,,-3,-1.16875,0,-4.16875,-0.87,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 593 P,"2026-01-02, 13:48:52",1,0.07,0.0234,-7,-1.16875,8.16875,0,-4.66,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 593 P,"2026-01-05, 16:20:00",-1,0,0,0,0,-8.16875,-8.16875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 05JAN26 593 P,,0,,,-7,-1.16875,0,-8.16875,-4.66,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 598 P,"2026-01-02, 13:48:52",-1,0.15,0.055,15,-1.17204,-13.82796,0,9.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 05JAN26 598 P,"2026-01-05, 16:20:00",1,0,0,0,0,13.82796,13.82796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 05JAN26 598 P,,0,,,15,-1.17204,-0,13.82796,9.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 627 C,"2026-01-06, 11:15:59",-1,0.13,0.435,13,-1.05454,-11.94546,0,-30.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 627 C,"2026-01-07, 15:25:16",1,0.03,0,-3,-0.85875,11.94546,8.08671,-3,C;L
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 07JAN26 627 C,,0,,,10,-1.91329,0,8.08671,-33.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 632 C,"2026-01-06, 11:15:59",1,0.03,0.025,-3,-1.05125,4.05125,0,-0.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 632 C,"2026-01-07, 16:20:00",-1,0,0,0,0,-4.05125,-4.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 07JAN26 632 C,,0,,,-3,-1.05125,0,-4.05125,-0.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 600 P,"2026-01-06, 11:15:59",1,0.05,0.0343,-5,-1.05125,6.05125,0,-1.57,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 600 P,"2026-01-07, 16:20:00",-1,0,0,0,0,-6.05125,-6.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 07JAN26 600 P,,0,,,-5,-1.05125,0,-6.05125,-1.57,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 605 P,"2026-01-06, 11:15:59",-1,0.1,0.0534,10,-1.05454,-8.94546,0,4.66,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 07JAN26 605 P,"2026-01-07, 16:20:00",1,0,0,0,0,8.94546,8.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 07JAN26 605 P,,0,,,10,-1.05454,0,8.94546,4.66,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 635 C,"2026-01-08, 10:51:27",-1,0.03,0.0172,3,-1.05204,-1.94796,0,1.28,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 635 C,"2026-01-09, 16:20:00",1,0,0,0,0,1.94796,1.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 09JAN26 635 C,,0,,,3,-1.05204,0,1.94796,1.28,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 640 C,"2026-01-08, 10:51:27",1,0.02,0.0106,-2,-1.04875,3.04875,0,-0.94,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 640 C,"2026-01-09, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 09JAN26 640 C,,0,,,-2,-1.04875,0,-3.04875,-0.94,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 600 P,"2026-01-08, 10:51:27",1,0.14,0.075,-14,-1.04875,15.04875,0,-6.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 600 P,"2026-01-09, 16:20:00",-1,0,0,0,0,-15.04875,-15.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 09JAN26 600 P,,0,,,-14,-1.04875,0,-15.04875,-6.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 605 P,"2026-01-08, 10:51:27",-1,0.29,0.155,29,-1.05204,-27.94796,0,13.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 09JAN26 605 P,"2026-01-09, 16:20:00",1,0,0,0,0,27.94796,27.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 09JAN26 605 P,,0,,,29,-1.05204,0,27.94796,13.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 636 C,"2026-01-15, 10:31:52",-1,0.07,0.0218,7,-0.99204,-6.00796,0,4.82,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 636 C,"2026-01-16, 16:20:00",1,0,0,0,0,6.00796,6.00796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 16JAN26 636 C,,0,,,7,-0.99204,0,6.00796,4.82,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 641 C,"2026-01-15, 10:31:52",1,0.03,0.0084,-3,-0.98875,3.98875,0,-2.16,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 641 C,"2026-01-16, 16:20:00",-1,0,0,0,0,-3.98875,-3.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 16JAN26 641 C,,0,,,-3,-0.98875,0,-3.98875,-2.16,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 604.78 P,"2026-01-15, 10:31:52",1,0.13,0.109,-13,-0.98875,13.98875,0,-2.1,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 604.78 P,"2026-01-16, 16:20:00",-1,0,0,0,0,-13.98875,-13.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 16JAN26 604.78 P,,0,,,-13,-0.98875,0,-13.98875,-2.1,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 609.78 P,"2026-01-15, 10:31:52",-1,0.21,0.245,21,-0.99204,-20.00796,0,-3.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 16JAN26 609.78 P,"2026-01-16, 16:20:00",1,0,0,0,0,20.00796,20.00796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 16JAN26 609.78 P,,0,,,21,-0.99204,0,20.00796,-3.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 632 C,"2026-01-20, 10:00:27",-1,0.04,0.0089,4,-1.05454,-2.94546,0,3.11,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 632 C,"2026-01-21, 16:20:00",1,0,0,0,0,2.94546,2.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 21JAN26 632 C,,0,,,4,-1.05454,0,2.94546,3.11,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 637 C,"2026-01-20, 10:00:27",1,0.02,0.0026,-2,-1.05125,3.05125,0,-1.74,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 637 C,"2026-01-21, 16:20:00",-1,0,0,0,0,-3.05125,-3.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 21JAN26 637 C,,0,,,-2,-1.05125,0,-3.05125,-1.74,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 590 P,"2026-01-20, 10:00:27",1,0.2,0.105,-20,-1.05125,21.05125,0,-9.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 590 P,"2026-01-21, 16:20:00",-1,0,0,0,0,-21.05125,-21.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 21JAN26 590 P,,0,,,-20,-1.05125,0,-21.05125,-9.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 595 P,"2026-01-20, 10:00:27",-1,0.38,0.315,38,-1.05454,-36.94546,0,6.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 21JAN26 595 P,"2026-01-21, 16:20:00",1,0,0,0,0,36.94546,36.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 21JAN26 595 P,,0,,,38,-1.05454,0,36.94546,6.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 628 C,"2026-01-22, 10:21:01",-1,0.23,0.085,23,-1.54204,-21.45796,0,14.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 628 C,"2026-01-23, 14:47:03",1,0.02,0,-2,-0.85875,21.45796,18.59921,-2,C;L
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 23JAN26 628 C,,0,,,21,-2.40079,0,18.59921,12.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 633 C,"2026-01-22, 10:21:01",1,0.04,0.0038,-4,-1.53875,5.53875,0,-3.62,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 633 C,"2026-01-23, 16:20:00",-1,0,0,0,0,-5.53875,-5.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 23JAN26 633 C,,0,,,-4,-1.53875,0,-5.53875,-3.62,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 599 P,"2026-01-22, 10:21:01",1,0.11,0.0428,-11,-1.53875,12.53875,0,-6.72,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 599 P,"2026-01-23, 16:20:00",-1,0,0,0,0,-12.53875,-12.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 23JAN26 599 P,,0,,,-11,-1.53875,0,-12.53875,-6.72,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 604 P,"2026-01-22, 10:21:01",-1,0.22,0.075,22,-1.54204,-20.45796,0,14.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 23JAN26 604 P,"2026-01-23, 16:20:00",1,0,0,0,0,20.45796,20.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 23JAN26 604 P,,0,,,22,-1.54204,0,20.45796,14.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 634 C,"2026-01-26, 11:07:28",-1,0.08,0.025,8,-1.05454,-6.94546,0,5.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 634 C,"2026-01-27, 15:22:22",1,0.03,0,-3,-0.85875,6.94546,3.08671,-3,C;L
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 27JAN26 634 C,,0,,,5,-1.91329,0,3.08671,2.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 639 C,"2026-01-26, 11:07:28",1,0.02,0.0087,-2,-1.05125,3.05125,0,-1.13,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 639 C,"2026-01-27, 16:20:00",-1,0,0,0,0,-3.05125,-3.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 27JAN26 639 C,,0,,,-2,-1.05125,0,-3.05125,-1.13,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 609 P,"2026-01-26, 11:07:28",1,0.13,0.07,-13,-1.05125,14.05125,0,-6,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 609 P,"2026-01-27, 16:20:00",-1,0,0,0,0,-14.05125,-14.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 27JAN26 609 P,,0,,,-13,-1.05125,0,-14.05125,-6,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 614 P,"2026-01-26, 11:07:28",-1,0.24,0.135,24,-1.05454,-22.94546,0,10.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 27JAN26 614 P,"2026-01-27, 16:20:00",1,0,0,0,0,22.94546,22.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 27JAN26 614 P,,0,,,24,-1.05454,0,22.94546,10.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 639 C,"2026-01-27, 11:24:01",-1,0.31,0.195,31,-1.05454,-29.94546,0,11.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 639 C,"2026-01-28, 16:20:00",1,0,0,0,0,29.94546,29.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 28JAN26 639 C,,0,,,31,-1.05454,0,29.94546,11.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 644 C,"2026-01-27, 11:24:01",1,0.04,0.0218,-4,-1.05125,5.05125,0,-1.82,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 644 C,"2026-01-28, 16:20:00",-1,0,0,0,0,-5.05125,-5.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 28JAN26 644 C,,0,,,-4,-1.05125,0,-5.05125,-1.82,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 614 P,"2026-01-27, 11:24:01",1,0.2,0.15,-20,-1.05125,21.05125,0,-5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 614 P,"2026-01-28, 16:20:00",-1,0,0,0,0,-21.05125,-21.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 28JAN26 614 P,,0,,,-20,-1.05125,0,-21.05125,-5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 619 P,"2026-01-27, 11:24:01",-1,0.39,0.345,39,-1.05454,-37.94546,0,4.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 28JAN26 619 P,"2026-01-28, 16:20:00",1,0,0,0,0,37.94546,37.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 28JAN26 619 P,,0,,,39,-1.05454,0,37.94546,4.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 645 C,"2026-01-28, 14:40:40",-1,0.22,0.175,22,-1.54204,-20.45796,0,4.5,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 645 C,"2026-01-29, 16:20:00",1,0,0,0,0,20.45796,20.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 29JAN26 645 C,,0,,,22,-1.54204,0,20.45796,4.5,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 650 C,"2026-01-28, 14:40:40",1,0.06,0.0173,-6,-1.53875,7.53875,0,-4.27,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 650 C,"2026-01-29, 16:20:00",-1,0,0,0,0,-7.53875,-7.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 29JAN26 650 C,,0,,,-6,-1.53875,0,-7.53875,-4.27,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 615 P,"2026-01-28, 14:40:40",1,0.41,0.2813,-41,-1.53875,42.53875,0,-12.87,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 615 P,"2026-01-29, 16:20:00",-1,0,0,0,0,-42.53875,-42.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 29JAN26 615 P,,0,,,-41,-1.53875,0,-42.53875,-12.87,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 620 P,"2026-01-28, 14:40:40",-1,0.81,0.5868,81,-1.54204,-79.45796,0,22.32,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 29JAN26 620 P,"2026-01-29, 16:20:00",1,0,0,0,0,79.45796,79.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 29JAN26 620 P,,0,,,81,-1.54204,0,79.45796,22.32,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 607 C,"2026-02-03, 11:39:23",1,12,10.4204,-1200,-0.69875,1200.69875,0,-157.96,O
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 607 C,,1,,,-1200,-0.69875,1200.69875,0,-157.96,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 610 C,"2026-02-03, 11:39:23",-2,9.28,7.8949,1856,-0.70408,-1855.29592,0,277.02,O
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 610 C,,-2,,,1856,-0.70408,-1855.29592,0,277.02,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 616 C,"2026-02-03, 11:39:23",1,4.75,3.6614,-475,-0.69875,475.69875,0,-108.86,O
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 616 C,,1,,,-475,-0.69875,475.69875,0,-108.86,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 619 C,"2026-02-02, 11:25:22",1,9.4,8.6051,-940,-0.69875,940.69875,0,-79.49,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 619 C,"2026-02-03, 11:31:35",-1,3.03,2.1843,303,-1.54204,-940.69875,-639.24079,84.57,C
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 619 C,,0,,,-637,-2.24079,0,-639.24079,5.08,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 622 C,"2026-02-02, 11:25:22",-2,6.96,6.2491,1392,-0.70408,-1391.29592,0,142.18,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 622 C,"2026-02-03, 11:31:35",2,1.7,1.04,-340,-2.3775,1391.29592,1048.91842,-132,C
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 622 C,,0,,,1052,-3.08158,0,1048.91842,10.18,
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 628 C,"2026-02-02, 11:25:22",1,3.01,2.39,-301,-0.69875,301.69875,0,-62,O
+Trades,Data,Order,Equity and Index Options,USD,QQQ 04FEB26 628 C,"2026-02-03, 11:31:35",-1,0.34,0.125,34,-1.54204,-301.69875,-269.24079,21.5,C
+Trades,SubTotal,,Equity and Index Options,USD,QQQ 04FEB26 628 C,,0,,,-267,-2.24079,0,-269.24079,-40.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 76 C,"2026-01-06, 11:03:55",-1,0.34,0.54,34,-1.05204,-32.94796,0,-20,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 76 C,"2026-01-07, 16:20:00",1,0,0,0,0,32.94796,32.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 07JAN26 76 C,,0,,,34,-1.05204,0,32.94796,-20,
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 78.5 C,"2026-01-06, 11:03:55",1,0.11,0.175,-11,-1.04875,12.04875,0,6.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 78.5 C,"2026-01-07, 16:20:00",-1,0,0,0,0,-12.04875,-12.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 07JAN26 78.5 C,,0,,,-11,-1.04875,0,-12.04875,6.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 62.5 P,"2026-01-06, 11:03:55",1,0.02,0.0136,-2,-1.04875,3.04875,0,-0.64,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 62.5 P,"2026-01-07, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 07JAN26 62.5 P,,0,,,-2,-1.04875,0,-3.04875,-0.64,
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 65 P,"2026-01-06, 11:03:55",-1,0.04,0.0321,4,-1.05204,-2.94796,0,0.79,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 07JAN26 65 P,"2026-01-07, 16:20:00",1,0,0,0,0,2.94796,2.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 07JAN26 65 P,,0,,,4,-1.05204,0,2.94796,0.79,
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 75.5 C,"2026-01-08, 10:46:53",-1,0.06,0.065,6,-1.54204,-4.45796,0,-0.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 75.5 C,"2026-01-09, 16:20:00",1,0,0,0,0,4.45796,4.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 09JAN26 75.5 C,,0,,,6,-1.54204,0,4.45796,-0.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 77.5 C,"2026-01-08, 10:46:53",1,0.03,0.025,-3,-1.53875,4.53875,0,-0.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 77.5 C,"2026-01-09, 16:20:00",-1,0,0,0,0,-4.53875,-4.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 09JAN26 77.5 C,,0,,,-3,-1.53875,0,-4.53875,-0.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 62.5 P,"2026-01-08, 10:46:53",1,0.07,0.035,-7,-1.53875,8.53875,0,-3.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 62.5 P,"2026-01-09, 16:20:00",-1,0,0,0,0,-8.53875,-8.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 09JAN26 62.5 P,,0,,,-7,-1.53875,0,-8.53875,-3.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 64.5 P,"2026-01-08, 10:46:53",-1,0.19,0.085,19,-1.54204,-17.45796,0,10.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 09JAN26 64.5 P,"2026-01-09, 16:20:00",1,0,0,0,0,17.45796,17.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 09JAN26 64.5 P,,0,,,19,-1.54204,0,17.45796,10.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 85.5 C,"2026-01-13, 11:13:38",-1,0.21,0.0554,21,-1.05204,-19.94796,0,15.46,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 85.5 C,"2026-01-14, 16:20:00",1,0,0,0,0,19.94796,19.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 14JAN26 85.5 C,,0,,,21,-1.05204,0,19.94796,15.46,
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 87.5 C,"2026-01-13, 11:13:38",1,0.09,0.0278,-9,-1.04875,10.04875,0,-6.22,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 87.5 C,"2026-01-14, 16:20:00",-1,0,0,0,0,-10.04875,-10.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 14JAN26 87.5 C,,0,,,-9,-1.04875,0,-10.04875,-6.22,
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 71.5 P,"2026-01-13, 11:13:38",1,0.05,0.0808,-5,-1.04875,6.04875,0,3.08,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 71.5 P,"2026-01-14, 16:20:00",-1,0,0,0,0,-6.04875,-6.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 14JAN26 71.5 P,,0,,,-5,-1.04875,0,-6.04875,3.08,
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 73.5 P,"2026-01-13, 11:13:38",-1,0.08,0.16,8,-1.05204,-6.94796,0,-8,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 14JAN26 73.5 P,"2026-01-14, 16:20:00",1,0,0,0,0,6.94796,6.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 14JAN26 73.5 P,,0,,,8,-1.05204,0,6.94796,-8,
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 87.5 C,"2026-01-15, 10:30:06",-1,0.27,0.34,27,-1.05204,-25.94796,0,-7,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 87.5 C,"2026-01-16, 16:20:00",1,0,0,0,0,25.94796,25.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 16JAN26 87.5 C,,0,,,27,-1.05204,0,25.94796,-7,
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 90.5 C,"2026-01-15, 10:30:06",1,0.08,0.0974,-8,-1.04875,9.04875,0,1.74,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 90.5 C,"2026-01-16, 16:20:00",-1,0,0,0,0,-9.04875,-9.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 16JAN26 90.5 C,,0,,,-8,-1.04875,0,-9.04875,1.74,
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 72.5 P,"2026-01-15, 10:30:06",1,0.07,0.0473,-7,-1.04875,8.04875,0,-2.27,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 72.5 P,"2026-01-16, 16:20:00",-1,0,0,0,0,-8.04875,-8.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 16JAN26 72.5 P,,0,,,-7,-1.04875,0,-8.04875,-2.27,
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 75.5 P,"2026-01-15, 10:30:06",-1,0.18,0.0914,18,-1.05204,-16.94796,0,8.86,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 16JAN26 75.5 P,"2026-01-16, 16:20:00",1,0,0,0,0,16.94796,16.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 16JAN26 75.5 P,,0,,,18,-1.05204,0,16.94796,8.86,
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 90.5 C,"2026-01-22, 10:45:04",-2,0.18,0.26,36,-1.40408,-34.59592,0,-16,O;P
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 90.5 C,"2026-01-23, 09:39:28",2,0.61,2.41,-122,-0.8075,34.59592,-88.21158,360,C;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 23JAN26 90.5 C,,0,,,-86,-2.21158,0,-88.21158,344,
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 92.5 C,"2026-01-22, 10:45:04",2,0.06,0.0955,-12,-1.0975,13.0975,0,7.1,O;P
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 92.5 C,"2026-01-23, 09:39:28",-2,0.12,0.41,24,-0.81408,-13.0975,10.08842,-58,C;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 23JAN26 92.5 C,,0,,,12,-1.91158,0,10.08842,-50.9,
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 77.5 P,"2026-01-22, 10:45:04",2,0.05,0.0334,-10,-1.0975,11.0975,0,-3.32,O;P
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 77.5 P,"2026-01-23, 09:39:28",-2,0.01,0,2,-0.51408,-11.0975,-9.61158,2,C;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 23JAN26 77.5 P,,0,,,-8,-1.61158,0,-9.61158,-1.32,
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 79.5 P,"2026-01-22, 10:45:04",-2,0.075,0.0469,15,-1.10408,-13.89592,0,5.62,O;P
+Trades,Data,Order,Equity and Index Options,USD,SLV 23JAN26 79.5 P,"2026-01-23, 09:39:28",2,0.02,0,-4,-0.5075,13.89592,9.38842,-4,C;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 23JAN26 79.5 P,,0,,,11,-1.61158,0,9.38842,1.62,
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 115 C,"2026-01-26, 15:29:02",-1,0.51,0.575,51,-0.70204,-50.29796,0,-6.5,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 115 C,"2026-01-28, 16:20:00",1,0,0,0,0,50.29796,50.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 28JAN26 115 C,,0,,,51,-0.70204,0,50.29796,-6.5,
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 120 C,"2026-01-26, 15:29:02",1,0.29,0.35,-29,-0.69875,29.69875,0,6,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 120 C,"2026-01-28, 16:20:00",-1,0,0,0,0,-29.69875,-29.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 28JAN26 120 C,,0,,,-29,-0.69875,0,-29.69875,6,
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 77.5 P,"2026-01-26, 15:29:02",1,0.11,0.0918,-11,-0.69875,11.69875,0,-1.82,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 77.5 P,"2026-01-28, 16:20:00",-1,0,0,0,0,-11.69875,-11.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 28JAN26 77.5 P,,0,,,-11,-0.69875,0,-11.69875,-1.82,
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 82.5 P,"2026-01-26, 15:29:02",-1,0.3,0.2415,30,-0.70204,-29.29796,0,5.85,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 28JAN26 82.5 P,"2026-01-28, 16:20:00",1,0,0,0,0,29.29796,29.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SLV 28JAN26 82.5 P,,0,,,30,-0.70204,0,29.29796,5.85,
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 97 C,"2026-01-29, 14:17:28",-1,6.48,9.0743,648,-0.70204,-647.29796,0,-259.43,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 97 C,"2026-01-30, 12:58:16",1,0.07,0,-7,-0.56875,647.29796,639.72921,-7,C
+Trades,SubTotal,,Equity and Index Options,USD,SLV 30JAN26 97 C,,0,,,641,-1.27079,0,639.72921,-266.43,
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 102 C,"2026-01-29, 14:17:28",1,3.18,5.048,-318,-0.69875,318.69875,0,186.8,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 102 C,"2026-01-30, 12:58:16",-1,0.01,0,1,-1.45204,-318.69875,-319.15079,1,C
+Trades,SubTotal,,Equity and Index Options,USD,SLV 30JAN26 102 C,,0,,,-317,-2.15079,0,-319.15079,187.8,
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 115 C,"2026-01-28, 15:12:01",-1,0.71,1.2089,71,-0.70204,-70.29796,0,-49.89,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 30JAN26 115 C,"2026-01-30, 12:58:08",1,0.01,0,-1,-0.84875,70.29796,68.44921,-1,C
+Trades,SubTotal,,Equity and Index Options,USD,SLV 30JAN26 115 C,,0,,,70,-1.55079,0,68.44921,-50.89,
+Trades,Data,Order,Equity and Index Options,USD,SLV 02FEB26 110 C,"2026-01-28, 15:12:01",1,2.71,3.5569,-271,-0.69875,271.69875,0,84.69,O
+Trades,Data,Order,Equity and Index Options,USD,SLV 02FEB26 110 C,"2026-01-30, 12:58:08",-1,0.15,0.059,15,-1.55204,-271.69875,-258.25079,9.1,C
+Trades,SubTotal,,Equity and Index Options,USD,SLV 02FEB26 110 C,,0,,,-256,-2.25079,0,-258.25079,93.79,
+Trades,Data,Order,Equity and Index Options,USD,SLV 04FEB26 89.5 C,"2026-02-03, 10:53:28",-2,0.24,0.0811,48,-1.40408,-46.59592,0,31.78,O;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 04FEB26 89.5 C,,-2,,,48,-1.40408,-46.59592,0,31.78,
+Trades,Data,Order,Equity and Index Options,USD,SLV 04FEB26 92 C,"2026-02-03, 10:53:28",2,0.14,0.054,-28,-1.3975,29.3975,0,-17.2,O;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 04FEB26 92 C,,2,,,-28,-1.3975,29.3975,0,-17.2,
+Trades,Data,Order,Equity and Index Options,USD,SLV 04FEB26 67.5 P,"2026-02-03, 10:53:28",2,0.11,0.15,-22,-1.3975,23.3975,0,8,O;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 04FEB26 67.5 P,,2,,,-22,-1.3975,23.3975,0,8,
+Trades,Data,Order,Equity and Index Options,USD,SLV 04FEB26 70 P,"2026-02-03, 10:53:28",-2,0.19,0.2944,38,-1.40408,-36.59592,0,-20.88,O;P
+Trades,SubTotal,,Equity and Index Options,USD,SLV 04FEB26 70 P,,-2,,,38,-1.40408,-36.59592,0,-20.88,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 7025 C,"2026-01-26, 10:43:46",-1,0.21,0.0454,21,-1.55125,-19.44875,0,16.46,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 7025 C,"2026-01-27, 16:20:00",1,0,0,0,0,19.44875,19.44875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 27JAN26 7025 C,,0,,,21,-1.55125,0,19.44875,16.46,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 7030 C,"2026-01-26, 10:43:46",1,0.17,0.026,-17,-1.55125,18.55125,0,-14.4,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 7030 C,"2026-01-27, 16:20:00",-1,0,0,0,0,-18.55125,-18.55125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 27JAN26 7030 C,,0,,,-17,-1.55125,0,-18.55125,-14.4,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 6845 P,"2026-01-26, 10:43:46",1,2.12,0.7321,-212,-1.64125,213.64125,0,-138.79,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 6845 P,"2026-01-27, 16:20:00",-1,0,0,0,0,-213.64125,-213.64125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 27JAN26 6845 P,,0,,,-212,-1.64125,0,-213.64125,-138.79,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 6850 P,"2026-01-26, 10:43:46",-1,2.28,0.8249,228,-1.64125,-226.35875,0,145.51,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 27JAN26 6850 P,"2026-01-27, 16:20:00",1,0,0,0,0,226.35875,226.35875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 27JAN26 6850 P,,0,,,228,-1.64125,0,226.35875,145.51,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 7055 C,"2026-01-27, 11:25:03",-1,0.39,0.125,39,-1.55125,-37.44875,0,26.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 7055 C,"2026-01-28, 16:20:00",1,0,0,0,0,37.44875,37.44875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 28JAN26 7055 C,,0,,,39,-1.55125,0,37.44875,26.5,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 7060 C,"2026-01-27, 11:25:03",1,0.3,0.0793,-30,-1.55125,31.55125,0,-22.07,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 7060 C,"2026-01-28, 16:20:00",-1,0,0,0,0,-31.55125,-31.55125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 28JAN26 7060 C,,0,,,-30,-1.55125,0,-31.55125,-22.07,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 6870 P,"2026-01-27, 11:25:03",1,1.74,0.925,-174,-1.64125,175.64125,0,-81.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 6870 P,"2026-01-28, 16:20:00",-1,0,0,0,0,-175.64125,-175.64125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 28JAN26 6870 P,,0,,,-174,-1.64125,0,-175.64125,-81.5,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 6875 P,"2026-01-27, 11:25:03",-1,1.85,1.05,185,-1.64125,-183.35875,0,80,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 28JAN26 6875 P,"2026-01-28, 16:20:00",1,0,0,0,0,183.35875,183.35875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 28JAN26 6875 P,,0,,,185,-1.64125,0,183.35875,80,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 7050 C,"2026-02-02, 11:58:07",-1,0.29,0.15,29,-1.55125,-27.44875,0,14,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 7050 C,"2026-02-03, 16:20:00",1,0,0,0,0,27.44875,27.44875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 03FEB26 7050 C,,0,,,29,-1.55125,0,27.44875,14,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 7055 C,"2026-02-02, 11:58:07",1,0.22,0.1321,-22,-1.55125,23.55125,0,-8.79,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 7055 C,"2026-02-03, 16:20:00",-1,0,0,0,0,-23.55125,-23.55125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 03FEB26 7055 C,,0,,,-22,-1.55125,0,-23.55125,-8.79,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 6865 P,"2026-02-02, 11:58:07",1,1.61,0.7999,-161,-1.64125,162.64125,0,-81.01,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 6865 P,"2026-02-03, 16:20:00",-1,0,0,0,0,-162.64125,-162.64125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 03FEB26 6865 P,,0,,,-161,-1.64125,0,-162.64125,-81.01,
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 6870 P,"2026-02-02, 11:58:07",-1,1.74,0.9,174,-1.64125,-172.35875,0,84,O
+Trades,Data,Order,Equity and Index Options,USD,SPXW 03FEB26 6870 P,"2026-02-03, 16:20:00",1,0,0,0,0,172.35875,172.35875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPXW 03FEB26 6870 P,,0,,,174,-1.64125,0,172.35875,84,
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 689 C,"2026-01-02, 13:36:34",-1,0.05,0.075,5,-1.05454,-3.94546,0,-2.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 689 C,"2026-01-05, 15:20:37",1,0.04,0,-4,-0.85875,3.94546,-0.91329,-4,C;L
+Trades,SubTotal,,Equity and Index Options,USD,SPY 05JAN26 689 C,,0,,,1,-1.91329,0,-0.91329,-6.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 694 C,"2026-01-02, 13:36:34",1,0.02,0.0031,-2,-1.05125,3.05125,0,-1.69,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 694 C,"2026-01-05, 16:20:00",-1,0,0,0,0,-3.05125,-3.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 05JAN26 694 C,,0,,,-2,-1.05125,0,-3.05125,-1.69,
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 668 P,"2026-01-02, 13:36:34",1,0.06,0.0259,-6,-1.05125,7.05125,0,-3.41,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 668 P,"2026-01-05, 16:20:00",-1,0,0,0,0,-7.05125,-7.05125,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 05JAN26 668 P,,0,,,-6,-1.05125,0,-7.05125,-3.41,
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 673 P,"2026-01-02, 13:36:34",-1,0.21,0.065,21,-1.05454,-19.94546,0,14.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 05JAN26 673 P,"2026-01-05, 16:20:00",1,0,0,0,0,19.94546,19.94546,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 05JAN26 673 P,,0,,,21,-1.05454,0,19.94546,14.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 695 C,"2026-01-06, 10:47:00",-1,0.08,0.205,8,-1.52204,-6.47796,0,-12.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 695 C,"2026-01-07, 14:46:43",1,0.01,0,-1,-0.85875,6.47796,4.61921,-1,C;L
+Trades,SubTotal,,Equity and Index Options,USD,SPY 07JAN26 695 C,,0,,,7,-2.38079,0,4.61921,-13.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 700 C,"2026-01-06, 10:47:00",1,0.02,0.0017,-2,-1.51875,3.51875,0,-1.83,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 700 C,"2026-01-07, 16:20:00",-1,0,0,0,0,-3.51875,-3.51875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 07JAN26 700 C,,0,,,-2,-1.51875,0,-3.51875,-1.83,
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 680 P,"2026-01-06, 10:47:00",1,0.13,0.0435,-13,-1.51875,14.51875,0,-8.65,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 680 P,"2026-01-07, 16:20:00",-1,0,0,0,0,-14.51875,-14.51875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 07JAN26 680 P,,0,,,-13,-1.51875,0,-14.51875,-8.65,
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 685 P,"2026-01-06, 10:47:00",-1,0.39,0.125,39,-1.52204,-37.47796,0,26.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 07JAN26 685 P,"2026-01-07, 16:20:00",1,0,0,0,0,37.47796,37.47796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 07JAN26 685 P,,0,,,39,-1.52204,0,37.47796,26.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 697 C,"2026-01-08, 10:34:26",-1,0.15,0.115,15,-1.54204,-13.45796,0,3.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 697 C,"2026-01-09, 15:21:53",1,0.02,0,-2,-1.04875,13.45796,10.40921,-2,C;L
+Trades,SubTotal,,Equity and Index Options,USD,SPY 09JAN26 697 C,,0,,,13,-2.59079,0,10.40921,1.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 702 C,"2026-01-08, 10:34:26",1,0.02,0.0154,-2,-1.53875,3.53875,0,-0.46,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 702 C,"2026-01-09, 16:20:00",-1,0,0,0,0,-3.53875,-3.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 09JAN26 702 C,,0,,,-2,-1.53875,0,-3.53875,-0.46,
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 677 P,"2026-01-08, 10:34:26",1,0.17,0.125,-17,-1.53875,18.53875,0,-4.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 677 P,"2026-01-09, 16:20:00",-1,0,0,0,0,-18.53875,-18.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 09JAN26 677 P,,0,,,-17,-1.53875,0,-18.53875,-4.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 682 P,"2026-01-08, 10:34:26",-1,0.49,0.395,49,-1.54204,-47.45796,0,9.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 09JAN26 682 P,"2026-01-09, 16:20:00",1,0,0,0,0,47.45796,47.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 09JAN26 682 P,,0,,,49,-1.54204,0,47.45796,9.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 701 C,"2026-01-13, 10:37:06",-1,0.09,0.025,9,-0.70204,-8.29796,0,6.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 701 C,"2026-01-14, 16:20:00",1,0,0,0,0,8.29796,8.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 14JAN26 701 C,,0,,,9,-0.70204,0,8.29796,6.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 706 C,"2026-01-13, 10:37:06",1,0.02,0.0108,-2,-0.69875,2.69875,0,-0.92,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 706 C,"2026-01-14, 16:20:00",-1,0,0,0,0,-2.69875,-2.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 14JAN26 706 C,,0,,,-2,-0.69875,0,-2.69875,-0.92,
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 678 P,"2026-01-13, 10:37:06",1,0.09,0.0404,-9,-0.69875,9.69875,0,-4.96,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 678 P,"2026-01-14, 16:20:00",-1,0,0,0,0,-9.69875,-9.69875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 14JAN26 678 P,,0,,,-9,-0.69875,0,-9.69875,-4.96,
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 683 P,"2026-01-13, 10:37:06",-1,0.2,0.095,20,-0.70204,-19.29796,0,10.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 14JAN26 683 P,"2026-01-14, 16:20:00",1,0,0,0,0,19.29796,19.29796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 14JAN26 683 P,,0,,,20,-0.70204,0,19.29796,10.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 704 C,"2026-01-15, 10:31:30",-1,0.02,0.0036,2,-0.99204,-1.00796,0,1.64,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 704 C,"2026-01-16, 16:20:00",1,0,0,0,0,1.00796,1.00796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 16JAN26 704 C,,0,,,2,-0.99204,0,1.00796,1.64,
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 709 C,"2026-01-15, 10:31:30",1,0.01,0.0001,-1,-0.98875,1.98875,0,-0.99,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 709 C,"2026-01-16, 16:20:00",-1,0,0,0,0,-1.98875,-1.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 16JAN26 709 C,,0,,,-1,-0.98875,0,-1.98875,-0.99,
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 680 P,"2026-01-15, 10:31:30",1,0.12,0.075,-12,-0.98875,12.98875,0,-4.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 680 P,"2026-01-16, 16:20:00",-1,0,0,0,0,-12.98875,-12.98875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 16JAN26 680 P,,0,,,-12,-0.98875,0,-12.98875,-4.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 685 P,"2026-01-15, 10:31:30",-1,0.23,0.265,23,-0.99204,-22.00796,0,-3.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 16JAN26 685 P,"2026-01-16, 16:20:00",1,0,0,0,0,22.00796,22.00796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 16JAN26 685 P,,0,,,23,-0.99204,0,22.00796,-3.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 695 C,"2026-01-20, 13:33:40",-1,0.03,0.0097,3,-1.54204,-1.45796,0,2.03,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 695 C,"2026-01-21, 16:20:00",1,0,0,0,0,1.45796,1.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 21JAN26 695 C,,0,,,3,-1.54204,0,1.45796,2.03,
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 700 C,"2026-01-20, 13:33:40",1,0.02,0.0007,-2,-1.53875,3.53875,0,-1.93,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 700 C,"2026-01-21, 16:20:00",-1,0,0,0,0,-3.53875,-3.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 21JAN26 700 C,,0,,,-2,-1.53875,0,-3.53875,-1.93,
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 662 P,"2026-01-20, 13:33:40",1,0.11,0.125,-11,-1.53875,12.53875,0,1.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 662 P,"2026-01-21, 16:20:00",-1,0,0,0,0,-12.53875,-12.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 21JAN26 662 P,,0,,,-11,-1.53875,0,-12.53875,1.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 667 P,"2026-01-20, 13:33:40",-1,0.26,0.365,26,-1.54204,-24.45796,0,-10.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 21JAN26 667 P,"2026-01-21, 16:20:00",1,0,0,0,0,24.45796,24.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 21JAN26 667 P,,0,,,26,-1.54204,0,24.45796,-10.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 698 C,"2026-01-22, 10:24:16",-1,0.08,0.025,8,-1.05204,-6.94796,0,5.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 698 C,"2026-01-23, 16:20:00",1,0,0,0,0,6.94796,6.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 23JAN26 698 C,,0,,,8,-1.05204,0,6.94796,5.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 703 C,"2026-01-22, 10:24:16",1,0.03,0.0007,-3,-1.04875,4.04875,0,-2.93,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 703 C,"2026-01-23, 16:20:00",-1,0,0,0,0,-4.04875,-4.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 23JAN26 703 C,,0,,,-3,-1.04875,0,-4.04875,-2.93,
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 674 P,"2026-01-22, 10:24:16",1,0.17,0.0459,-17,-1.04875,18.04875,0,-12.41,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 674 P,"2026-01-23, 16:20:00",-1,0,0,0,0,-18.04875,-18.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 23JAN26 674 P,,0,,,-17,-1.04875,0,-18.04875,-12.41,
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 679 P,"2026-01-22, 10:24:16",-1,0.42,0.125,42,-1.05204,-40.94796,0,29.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 23JAN26 679 P,"2026-01-23, 16:20:00",1,0,0,0,0,40.94796,40.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 23JAN26 679 P,,0,,,42,-1.05204,0,40.94796,29.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 699 C,"2026-01-26, 10:43:40",-1,0.05,0.025,5,-1.54204,-3.45796,0,2.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 699 C,"2026-01-27, 14:46:49",1,0.02,0,-2,-1.04875,3.45796,0.40921,-2,C;L
+Trades,SubTotal,,Equity and Index Options,USD,SPY 27JAN26 699 C,,0,,,3,-2.59079,0,0.40921,0.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 704 C,"2026-01-26, 10:43:40",1,0.02,0.0085,-2,-1.53875,3.53875,0,-1.15,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 704 C,"2026-01-27, 16:20:00",-1,0,0,0,0,-3.53875,-3.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 27JAN26 704 C,,0,,,-2,-1.53875,0,-3.53875,-1.15,
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 679 P,"2026-01-26, 10:43:40",1,0.15,0.0473,-15,-1.53875,16.53875,0,-10.27,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 679 P,"2026-01-27, 16:20:00",-1,0,0,0,0,-16.53875,-16.53875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 27JAN26 679 P,,0,,,-15,-1.53875,0,-16.53875,-10.27,
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 684 P,"2026-01-26, 10:43:40",-1,0.3,0.115,30,-1.54204,-28.45796,0,18.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 27JAN26 684 P,"2026-01-27, 16:20:00",1,0,0,0,0,28.45796,28.45796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 27JAN26 684 P,,0,,,30,-1.54204,0,28.45796,18.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 703 C,"2026-01-27, 11:25:37",-1,0.1,0.045,10,-1.05204,-8.94796,0,5.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 703 C,"2026-01-28, 16:20:00",1,0,0,0,0,8.94796,8.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 28JAN26 703 C,,0,,,10,-1.05204,0,8.94796,5.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 708 C,"2026-01-27, 11:25:37",1,0.02,0.0014,-2,-1.04875,3.04875,0,-1.86,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 708 C,"2026-01-28, 16:20:00",-1,0,0,0,0,-3.04875,-3.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 28JAN26 708 C,,0,,,-2,-1.04875,0,-3.04875,-1.86,
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 680 P,"2026-01-27, 11:25:37",1,0.14,0.065,-14,-1.04875,15.04875,0,-7.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 680 P,"2026-01-28, 16:20:00",-1,0,0,0,0,-15.04875,-15.04875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 28JAN26 680 P,,0,,,-14,-1.04875,0,-15.04875,-7.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 685 P,"2026-01-27, 11:25:37",-1,0.26,0.175,26,-1.05204,-24.94796,0,8.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 28JAN26 685 P,"2026-01-28, 16:20:00",1,0,0,0,0,24.94796,24.94796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 28JAN26 685 P,,0,,,26,-1.05204,0,24.94796,8.5,
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 709 C,"2026-01-28, 15:34:39",-1,0.01,0.0085,1,-0.95204,-0.04796,0,0.15,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 709 C,"2026-01-29, 16:20:00",1,0,0,0,0,0.04796,0.04796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 29JAN26 709 C,,0,,,1,-0.95204,0,0.04796,0.15,
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 714 C,"2026-01-28, 15:34:39",1,0.01,0.0003,-1,-0.94875,1.94875,0,-0.97,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 714 C,"2026-01-29, 16:20:00",-1,0,0,0,0,-1.94875,-1.94875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 29JAN26 714 C,,0,,,-1,-0.94875,0,-1.94875,-0.97,
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 678 P,"2026-01-28, 15:34:39",1,0.1,0.0915,-10,-0.94875,10.94875,0,-0.85,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 678 P,"2026-01-29, 16:20:00",-1,0,0,0,0,-10.94875,-10.94875,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 29JAN26 678 P,,0,,,-10,-0.94875,0,-10.94875,-0.85,
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 683 P,"2026-01-28, 15:34:39",-1,0.25,0.2296,25,-0.95204,-24.04796,0,2.04,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 29JAN26 683 P,"2026-01-29, 16:20:00",1,0,0,0,0,24.04796,24.04796,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,SPY 29JAN26 683 P,,0,,,25,-0.95204,0,24.04796,2.04,
+Trades,Data,Order,Equity and Index Options,USD,SPY 30JAN26 680 P,"2026-01-29, 14:51:10",-1,0.24,0.1076,24,-1.05454,-22.94546,0,13.24,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 30JAN26 680 P,"2026-01-30, 09:45:51",1,0.1,0,-10,-0.69875,22.94546,12.24671,-10,C
+Trades,SubTotal,,Equity and Index Options,USD,SPY 30JAN26 680 P,,0,,,14,-1.75329,0,12.24671,3.24,
+Trades,Data,Order,Equity and Index Options,USD,SPY 02FEB26 685 P,"2026-01-29, 14:51:10",1,1.45,0.855,-145,-1.05125,146.05125,0,-59.5,O
+Trades,Data,Order,Equity and Index Options,USD,SPY 02FEB26 685 P,"2026-01-30, 09:45:51",-1,1.17,0.885,117,-0.70204,-146.05125,-29.75329,28.5,C
+Trades,SubTotal,,Equity and Index Options,USD,SPY 02FEB26 685 P,,0,,,-28,-1.75329,0,-29.75329,-31,
+Trades,Data,Order,Equity and Index Options,USD,SPY 05FEB26 685 C,"2026-02-03, 13:21:54",-1,5.55,6.6963,555,-0.99204,-554.00796,0,-114.63,O
+Trades,SubTotal,,Equity and Index Options,USD,SPY 05FEB26 685 C,,-1,,,555,-0.99204,-554.00796,0,-114.63,
+Trades,Data,Order,Equity and Index Options,USD,SPY 06FEB26 690 C,"2026-02-03, 13:21:54",1,3.54,4.2105,-354,-0.98875,354.98875,0,67.05,O
+Trades,SubTotal,,Equity and Index Options,USD,SPY 06FEB26 690 C,,1,,,-354,-0.98875,354.98875,0,67.05,
+Trades,Total,,Equity and Index Options,USD,,,,,,2464,-268.63717,-1083.59496,1097.16866,974.38, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,,Proceeds,Comm in USD,,,MTM in USD,Code
+Trades,Data,Order,Forex,TRY,USD.TRY,"2026-01-16, 02:42:39",138,43.27905,,-5972.5089,-2,,,0.005182,
+Trades,SubTotal,,Forex,TRY,USD.TRY,,138,,,-5972.5089,-2,,,0.005182,
+Trades,Total,,Forex,TRY,,,,,,-5972.5089,-2,,,0.005182, 
+Trades,Total,,Forex,USD,,,,,,-137.994818135,-2,,,0.005182, 
+Trades,Data,Order,Forex,USD,TRY.USD,"2026-01-22, 00:11:54",-27.4911,0.022997,,0.632212827,0,,,-0.003106,
+Trades,SubTotal,,Forex,USD,TRY.USD,,-27.4911,,,0.632212827,0,,,-0.003106,
+Trades,Total,,Forex,USD,,,,,,0.632212827,0,,,-0.003106, 
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,TRY,2026-01-16,Electronic Fund Transfer,6000
+Deposits & Withdrawals,Data,Total,,,6000
+Deposits & Withdrawals,Data,Total in USD,,,138.63
+Fees,Header,Subtitle,Currency,Date,Description,Amount
+Fees,Data,Other Fees,USD,2026-01-05,B*********EK:OPRA NP L1 for Jan 2026,-1.5
+Fees,Data,Total,,,,-1.5
+Fees,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Underlying,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,AA,ALCOA CORP,251962528,US0138721065,AA,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,GLD,SPDR GOLD SHARES,51529211,US78463V1070,GLD,ARCA,1,ETF,
+Financial Instrument Information,Data,Stocks,MSFT,MICROSOFT CORP,272093,US5949181045,MSFT,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,SOLV,SOLVENTUM CORP,691984360,US83444M1018,SOLV,NYSE,1,COMMON,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Underlying,Listing Exch,Multiplier,Expiry,Delivery Month,Type,Strike,Code
+Financial Instrument Information,Data,Equity and Index Options,DE    270115P00300000,DE 15JAN27 300 P,728874220,DE,CBOE,100,2027-01-15,2027-01,P,300,
+Financial Instrument Information,Data,Equity and Index Options,DE    270115P00310000,DE 15JAN27 310 P,728874269,DE,CBOE,100,2027-01-15,2027-01,P,310,
+Financial Instrument Information,Data,Equity and Index Options,ENPH  260320C00030000,ENPH 20MAR26 30 C,766183317,ENPH,CBOE,100,2026-03-20,2026-03,C,30,
+Financial Instrument Information,Data,Equity and Index Options,ENPH  260320C00035000,ENPH 20MAR26 35 C,765575087,ENPH,CBOE,100,2026-03-20,2026-03,C,35,
+Financial Instrument Information,Data,Equity and Index Options,ENPH  260320P00017500,ENPH 20MAR26 17.5 P,792560112,ENPH,CBOE,100,2026-03-20,2026-03,P,17.5,
+Financial Instrument Information,Data,Equity and Index Options,ENPH  260320P00022500,ENPH 20MAR26 22.5 P,782259729,ENPH,CBOE,100,2026-03-20,2026-03,P,22.5,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260105C00415000,GLD 05JAN26 415 C,841466623,GLD,CBOE,100,2026-01-05,2026-01,C,415,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260105C00420000,GLD 05JAN26 420 C,841466829,GLD,CBOE,100,2026-01-05,2026-01,C,420,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260105P00382000,GLD 05JAN26 382 P,841469863,GLD,CBOE,100,2026-01-05,2026-01,P,382,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260105P00387000,GLD 05JAN26 387 P,841470171,GLD,CBOE,100,2026-01-05,2026-01,P,387,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260107C00419000,GLD 07JAN26 419 C,841473648,GLD,CBOE,100,2026-01-07,2026-01,C,419,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260107C00424000,GLD 07JAN26 424 C,841786529,GLD,CBOE,100,2026-01-07,2026-01,C,424,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260107P00392000,GLD 07JAN26 392 P,841473783,GLD,CBOE,100,2026-01-07,2026-01,P,392,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260107P00397000,GLD 07JAN26 397 P,841473999,GLD,CBOE,100,2026-01-07,2026-01,P,397,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260109C00418000,GLD 09JAN26 418 C,841475193,GLD,CBOE,100,2026-01-09,2026-01,C,418,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260109C00423000,GLD 09JAN26 423 C,841475379,GLD,CBOE,100,2026-01-09,2026-01,C,423,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260109P00393000,GLD 09JAN26 393 P,834771653,GLD,CBOE,100,2026-01-09,2026-01,P,393,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260109P00398000,GLD 09JAN26 398 P,835161503,GLD,CBOE,100,2026-01-09,2026-01,P,398,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260114C00435000,GLD 14JAN26 435 C,842709221,GLD,CBOE,100,2026-01-14,2026-01,C,435,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260114C00440000,GLD 14JAN26 440 C,842709278,GLD,CBOE,100,2026-01-14,2026-01,C,440,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260114P00409000,GLD 14JAN26 409 P,842235639,GLD,CBOE,100,2026-01-14,2026-01,P,409,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260114P00414000,GLD 14JAN26 414 P,842712292,GLD,CBOE,100,2026-01-14,2026-01,P,414,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260116C00436000,GLD 16JAN26 436 C,823921271,GLD,CBOE,100,2026-01-16,2026-01,C,436,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260116C00441000,GLD 16JAN26 441 C,823921347,GLD,CBOE,100,2026-01-16,2026-01,C,441,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260116P00409000,GLD 16JAN26 409 P,823923034,GLD,CBOE,100,2026-01-16,2026-01,P,409,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260116P00414000,GLD 16JAN26 414 P,823923119,GLD,CBOE,100,2026-01-16,2026-01,P,414,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260123C00461000,GLD 23JAN26 461 C,848428829,GLD,CBOE,100,2026-01-23,2026-01,C,461,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260123C00466000,GLD 23JAN26 466 C,848429066,GLD,CBOE,100,2026-01-23,2026-01,C,466,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260123P00429000,GLD 23JAN26 429 P,841476823,GLD,CBOE,100,2026-01-23,2026-01,P,429,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260123P00434000,GLD 23JAN26 434 P,845430675,GLD,CBOE,100,2026-01-23,2026-01,P,434,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128C00481000,GLD 28JAN26 481 C,849637082,GLD,CBOE,100,2026-01-28,2026-01,C,481,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128C00486000,GLD 28JAN26 486 C,849637206,GLD,CBOE,100,2026-01-28,2026-01,C,486,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128C00490000,GLD 28JAN26 490 C,846391823,GLD,CBOE,100,2026-01-28,2026-01,C,490,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128C00495000,GLD 28JAN26 495 C,846391888,GLD,CBOE,100,2026-01-28,2026-01,C,495,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128P00438000,GLD 28JAN26 438 P,845435563,GLD,CBOE,100,2026-01-28,2026-01,P,438,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128P00443000,GLD 28JAN26 443 P,846395760,GLD,CBOE,100,2026-01-28,2026-01,P,443,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128P00444000,GLD 28JAN26 444 P,846395844,GLD,CBOE,100,2026-01-28,2026-01,P,444,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260128P00449000,GLD 28JAN26 449 P,846396225,GLD,CBOE,100,2026-01-28,2026-01,P,449,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260130C00485000,GLD 30JAN26 485 C,838392195,GLD,CBOE,100,2026-01-30,2026-01,C,485,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260130C00490000,GLD 30JAN26 490 C,838392275,GLD,CBOE,100,2026-01-30,2026-01,C,490,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260130C00498000,GLD 30JAN26 498 C,849639195,GLD,CBOE,100,2026-01-30,2026-01,C,498,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260202C00495000,GLD 02FEB26 495 C,848014113,GLD,CBOE,100,2026-02-02,2026-02,C,495,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00475000,GLD 04FEB26 475 C,848018122,GLD,CBOE,100,2026-02-04,2026-02,C,475,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00480000,GLD 04FEB26 480 C,848018163,GLD,CBOE,100,2026-02-04,2026-02,C,480,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00485000,GLD 04FEB26 485 C,848018213,GLD,CBOE,100,2026-02-04,2026-02,C,485,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00490000,GLD 04FEB26 490 C,848018246,GLD,CBOE,100,2026-02-04,2026-02,C,490,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00493000,GLD 04FEB26 493 C,849647164,GLD,CBOE,100,2026-02-04,2026-02,C,493,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00495000,GLD 04FEB26 495 C,848018273,GLD,CBOE,100,2026-02-04,2026-02,C,495,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204C00498000,GLD 04FEB26 498 C,849647441,GLD,CBOE,100,2026-02-04,2026-02,C,498,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204P00395000,GLD 04FEB26 395 P,848019263,GLD,CBOE,100,2026-02-04,2026-02,P,395,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204P00405000,GLD 04FEB26 405 P,848019332,GLD,CBOE,100,2026-02-04,2026-02,P,405,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204P00410000,GLD 04FEB26 410 P,848019613,GLD,CBOE,100,2026-02-04,2026-02,P,410,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204P00425000,GLD 04FEB26 425 P,847221276,GLD,CBOE,100,2026-02-04,2026-02,P,425,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260204P00430000,GLD 04FEB26 430 P,847221590,GLD,CBOE,100,2026-02-04,2026-02,P,430,
+Financial Instrument Information,Data,Equity and Index Options,GLD   260206P00400000,GLD 06FEB26 400 P,841792004,GLD,CBOE,100,2026-02-06,2026-02,P,400,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260121C00270000,IWM 21JAN26 270 C,844330514,IWM,CBOE,100,2026-01-21,2026-01,C,270,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260121C00275000,IWM 21JAN26 275 C,844330825,IWM,CBOE,100,2026-01-21,2026-01,C,275,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260121P00252000,IWM 21JAN26 252 P,843979227,IWM,CBOE,100,2026-01-21,2026-01,P,252,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260121P00257000,IWM 21JAN26 257 P,843979400,IWM,CBOE,100,2026-01-21,2026-01,P,257,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260123C00275000,IWM 23JAN26 275 C,836888289,IWM,CBOE,100,2026-01-23,2026-01,C,275,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260123C00280000,IWM 23JAN26 280 C,836888358,IWM,CBOE,100,2026-01-23,2026-01,C,280,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260123P00259000,IWM 23JAN26 259 P,836524776,IWM,CBOE,100,2026-01-23,2026-01,P,259,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260123P00264000,IWM 23JAN26 264 P,836890683,IWM,CBOE,100,2026-01-23,2026-01,P,264,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260127C00271000,IWM 27JAN26 271 C,846401181,IWM,CBOE,100,2026-01-27,2026-01,C,271,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260127C00276000,IWM 27JAN26 276 C,846401540,IWM,CBOE,100,2026-01-27,2026-01,C,276,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260127P00254000,IWM 27JAN26 254 P,845427448,IWM,CBOE,100,2026-01-27,2026-01,P,254,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260127P00259000,IWM 27JAN26 259 P,845427519,IWM,CBOE,100,2026-01-27,2026-01,P,259,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260129C00269000,IWM 29JAN26 269 C,846412827,IWM,CBOE,100,2026-01-29,2026-01,C,269,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260129C00274000,IWM 29JAN26 274 C,846413247,IWM,CBOE,100,2026-01-29,2026-01,C,274,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260129P00252000,IWM 29JAN26 252 P,846413893,IWM,CBOE,100,2026-01-29,2026-01,P,252,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260129P00257000,IWM 29JAN26 257 P,846414290,IWM,CBOE,100,2026-01-29,2026-01,P,257,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00255000,IWM 04FEB26 255 C,848020860,IWM,CBOE,100,2026-02-04,2026-02,C,255,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00256000,IWM 04FEB26 256 C,848020917,IWM,CBOE,100,2026-02-04,2026-02,C,256,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00258000,IWM 04FEB26 258 C,848021020,IWM,CBOE,100,2026-02-04,2026-02,C,258,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00262000,IWM 04FEB26 262 C,848021195,IWM,CBOE,100,2026-02-04,2026-02,C,262,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00269000,IWM 04FEB26 269 C,848021528,IWM,CBOE,100,2026-02-04,2026-02,C,269,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204C00272000,IWM 04FEB26 272 C,848021636,IWM,CBOE,100,2026-02-04,2026-02,C,272,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204P00256000,IWM 04FEB26 256 P,848022236,IWM,CBOE,100,2026-02-04,2026-02,P,256,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260204P00259000,IWM 04FEB26 259 P,848022367,IWM,CBOE,100,2026-02-04,2026-02,P,259,
+Financial Instrument Information,Data,Equity and Index Options,IWM   260205C00258000,IWM 05FEB26 258 C,848444116,IWM,CBOE,100,2026-02-05,2026-02,C,258,
+Financial Instrument Information,Data,Equity and Index Options,MSFT  260206C00402500,MSFT 06FEB26 402.5 C,848449519,MSFT,CBOE,100,2026-02-06,2026-02,C,402.5,
+Financial Instrument Information,Data,Equity and Index Options,MSFT  260209C00407500,MSFT 09FEB26 407.5 C,850981303,MSFT,CBOE,100,2026-02-09,2026-02,C,407.5,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260105C00623000,QQQ 05JAN26 623 C,841461176,QQQ,CBOE,100,2026-01-05,2026-01,C,623,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260105C00628000,QQQ 05JAN26 628 C,841461350,QQQ,CBOE,100,2026-01-05,2026-01,C,628,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260105P00593000,QQQ 05JAN26 593 P,841463379,QQQ,CBOE,100,2026-01-05,2026-01,P,593,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260105P00598000,QQQ 05JAN26 598 P,841463594,QQQ,CBOE,100,2026-01-05,2026-01,P,598,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260107C00627000,QQQ 07JAN26 627 C,841949999,QQQ,CBOE,100,2026-01-07,2026-01,C,627,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260107C00632000,QQQ 07JAN26 632 C,841950225,QQQ,CBOE,100,2026-01-07,2026-01,C,632,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260107P00600000,QQQ 07JAN26 600 P,841790250,QQQ,CBOE,100,2026-01-07,2026-01,P,600,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260107P00605000,QQQ 07JAN26 605 P,841790290,QQQ,CBOE,100,2026-01-07,2026-01,P,605,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260109C00635000,QQQ 09JAN26 635 C,835183979,QQQ,CBOE,100,2026-01-09,2026-01,C,635,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260109C00640000,QQQ 09JAN26 640 C,835184249,QQQ,CBOE,100,2026-01-09,2026-01,C,640,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260109P00600000,QQQ 09JAN26 600 P,834864546,QQQ,CBOE,100,2026-01-09,2026-01,P,600,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260109P00605000,QQQ 09JAN26 605 P,834864620,QQQ,CBOE,100,2026-01-09,2026-01,P,605,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260116C00636000,QQQ 16JAN26 636 C,840665026,QQQ,CBOE,100,2026-01-16,2026-01,C,636,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260116C00641000,QQQ 16JAN26 641 C,840665282,QQQ,CBOE,100,2026-01-16,2026-01,C,641,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260116P00604780,QQQ 16JAN26 604.78 P,672519758,QQQ,CBOE,100,2026-01-16,2026-01,P,604.78,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260116P00609780,QQQ 16JAN26 609.78 P,673695529,QQQ,CBOE,100,2026-01-16,2026-01,P,609.78,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260121C00632000,QQQ 21JAN26 632 C,844361478,QQQ,CBOE,100,2026-01-21,2026-01,C,632,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260121C00637000,QQQ 21JAN26 637 C,844361770,QQQ,CBOE,100,2026-01-21,2026-01,C,637,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260121P00590000,QQQ 21JAN26 590 P,843979399,QQQ,CBOE,100,2026-01-21,2026-01,P,590,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260121P00595000,QQQ 21JAN26 595 P,843979441,QQQ,CBOE,100,2026-01-21,2026-01,P,595,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260123C00628000,QQQ 23JAN26 628 C,836530121,QQQ,CBOE,100,2026-01-23,2026-01,C,628,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260123C00633000,QQQ 23JAN26 633 C,836530387,QQQ,CBOE,100,2026-01-23,2026-01,C,633,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260123P00599000,QQQ 23JAN26 599 P,836932486,QQQ,CBOE,100,2026-01-23,2026-01,P,599,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260123P00604000,QQQ 23JAN26 604 P,836932721,QQQ,CBOE,100,2026-01-23,2026-01,P,604,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260127C00634000,QQQ 27JAN26 634 C,846593578,QQQ,CBOE,100,2026-01-27,2026-01,C,634,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260127C00639000,QQQ 27JAN26 639 C,846593864,QQQ,CBOE,100,2026-01-27,2026-01,C,639,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260127P00609000,QQQ 27JAN26 609 P,846597108,QQQ,CBOE,100,2026-01-27,2026-01,P,609,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260127P00614000,QQQ 27JAN26 614 P,846597483,QQQ,CBOE,100,2026-01-27,2026-01,P,614,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260128C00639000,QQQ 28JAN26 639 C,846605059,QQQ,CBOE,100,2026-01-28,2026-01,C,639,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260128C00644000,QQQ 28JAN26 644 C,846605436,QQQ,CBOE,100,2026-01-28,2026-01,C,644,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260128P00614000,QQQ 28JAN26 614 P,846608781,QQQ,CBOE,100,2026-01-28,2026-01,P,614,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260128P00619000,QQQ 28JAN26 619 P,846609145,QQQ,CBOE,100,2026-01-28,2026-01,P,619,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260129C00645000,QQQ 29JAN26 645 C,846612891,QQQ,CBOE,100,2026-01-29,2026-01,C,645,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260129C00650000,QQQ 29JAN26 650 C,846612969,QQQ,CBOE,100,2026-01-29,2026-01,C,650,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260129P00615000,QQQ 29JAN26 615 P,846614893,QQQ,CBOE,100,2026-01-29,2026-01,P,615,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260129P00620000,QQQ 29JAN26 620 P,846614970,QQQ,CBOE,100,2026-01-29,2026-01,P,620,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00607000,QQQ 04FEB26 607 C,848461360,QQQ,CBOE,100,2026-02-04,2026-02,C,607,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00610000,QQQ 04FEB26 610 C,848037754,QQQ,CBOE,100,2026-02-04,2026-02,C,610,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00616000,QQQ 04FEB26 616 C,848461810,QQQ,CBOE,100,2026-02-04,2026-02,C,616,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00619000,QQQ 04FEB26 619 C,848462027,QQQ,CBOE,100,2026-02-04,2026-02,C,619,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00622000,QQQ 04FEB26 622 C,848462186,QQQ,CBOE,100,2026-02-04,2026-02,C,622,
+Financial Instrument Information,Data,Equity and Index Options,QQQ   260204C00628000,QQQ 04FEB26 628 C,848462581,QQQ,CBOE,100,2026-02-04,2026-02,C,628,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260107C00076000,SLV 07JAN26 76 C,841790515,SLV,CBOE,100,2026-01-07,2026-01,C,76,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260107C00078500,SLV 07JAN26 78.5 C,842133667,SLV,CBOE,100,2026-01-07,2026-01,C,78.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260107P00062500,SLV 07JAN26 62.5 P,841476423,SLV,CBOE,100,2026-01-07,2026-01,P,62.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260107P00065000,SLV 07JAN26 65 P,841476583,SLV,CBOE,100,2026-01-07,2026-01,P,65,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260109C00075500,SLV 09JAN26 75.5 C,839017339,SLV,CBOE,100,2026-01-09,2026-01,C,75.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260109C00077500,SLV 09JAN26 77.5 C,839017382,SLV,CBOE,100,2026-01-09,2026-01,C,77.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260109P00062500,SLV 09JAN26 62.5 P,835961191,SLV,CBOE,100,2026-01-09,2026-01,P,62.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260109P00064500,SLV 09JAN26 64.5 P,835961239,SLV,CBOE,100,2026-01-09,2026-01,P,64.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260114C00085500,SLV 14JAN26 85.5 C,845418692,SLV,CBOE,100,2026-01-14,2026-01,C,85.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260114C00087500,SLV 14JAN26 87.5 C,845418758,SLV,CBOE,100,2026-01-14,2026-01,C,87.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260114P00071500,SLV 14JAN26 71.5 P,842234272,SLV,CBOE,100,2026-01-14,2026-01,P,71.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260114P00073500,SLV 14JAN26 73.5 P,842234302,SLV,CBOE,100,2026-01-14,2026-01,P,73.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260116C00087500,SLV 16JAN26 87.5 C,842134808,SLV,CBOE,100,2026-01-16,2026-01,C,87.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260116C00090500,SLV 16JAN26 90.5 C,842134820,SLV,CBOE,100,2026-01-16,2026-01,C,90.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260116P00072500,SLV 16JAN26 72.5 P,839018203,SLV,CBOE,100,2026-01-16,2026-01,P,72.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260116P00075500,SLV 16JAN26 75.5 P,842134895,SLV,CBOE,100,2026-01-16,2026-01,P,75.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260123C00090500,SLV 23JAN26 90.5 C,842135070,SLV,CBOE,100,2026-01-23,2026-01,C,90.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260123C00092500,SLV 23JAN26 92.5 C,842135080,SLV,CBOE,100,2026-01-23,2026-01,C,92.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260123P00077500,SLV 23JAN26 77.5 P,839019023,SLV,CBOE,100,2026-01-23,2026-01,P,77.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260123P00079500,SLV 23JAN26 79.5 P,839019038,SLV,CBOE,100,2026-01-23,2026-01,P,79.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260128C00115000,SLV 28JAN26 115 C,845724174,SLV,CBOE,100,2026-01-28,2026-01,C,115,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260128C00120000,SLV 28JAN26 120 C,845724176,SLV,CBOE,100,2026-01-28,2026-01,C,120,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260128P00077500,SLV 28JAN26 77.5 P,846646264,SLV,CBOE,100,2026-01-28,2026-01,P,77.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260128P00082500,SLV 28JAN26 82.5 P,846646699,SLV,CBOE,100,2026-01-28,2026-01,P,82.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260130C00097000,SLV 30JAN26 97 C,838444863,SLV,CBOE,100,2026-01-30,2026-01,C,97,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260130C00102000,SLV 30JAN26 102 C,846649071,SLV,CBOE,100,2026-01-30,2026-01,C,102,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260130C00115000,SLV 30JAN26 115 C,845724281,SLV,CBOE,100,2026-01-30,2026-01,C,115,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260202C00110000,SLV 02FEB26 110 C,848019099,SLV,CBOE,100,2026-02-02,2026-02,C,110,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260204C00089500,SLV 04FEB26 89.5 C,848026449,SLV,CBOE,100,2026-02-04,2026-02,C,89.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260204C00092000,SLV 04FEB26 92 C,847267824,SLV,CBOE,100,2026-02-04,2026-02,C,92,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260204P00067500,SLV 04FEB26 67.5 P,851288161,SLV,CBOE,100,2026-02-04,2026-02,P,67.5,
+Financial Instrument Information,Data,Equity and Index Options,SLV   260204P00070000,SLV 04FEB26 70 P,847268296,SLV,CBOE,100,2026-02-04,2026-02,P,70,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260127C07025000,SPXW 27JAN26 7025 C,840345975,SPX,CBOE,100,2026-01-27,2026-01,C,7025,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260127C07030000,SPXW 27JAN26 7030 C,842772350,SPX,CBOE,100,2026-01-27,2026-01,C,7030,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260127P06845000,SPXW 27JAN26 6845 P,843976479,SPX,CBOE,100,2026-01-27,2026-01,P,6845,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260127P06850000,SPXW 27JAN26 6850 P,840346664,SPX,CBOE,100,2026-01-27,2026-01,P,6850,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260128C07055000,SPXW 28JAN26 7055 C,846731722,SPX,CBOE,100,2026-01-28,2026-01,C,7055,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260128C07060000,SPXW 28JAN26 7060 C,843977091,SPX,CBOE,100,2026-01-28,2026-01,C,7060,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260128P06870000,SPXW 28JAN26 6870 P,841972161,SPX,CBOE,100,2026-01-28,2026-01,P,6870,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260128P06875000,SPXW 28JAN26 6875 P,840686398,SPX,CBOE,100,2026-01-28,2026-01,P,6875,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260203C07050000,SPXW 03FEB26 7050 C,841975544,SPX,CBOE,100,2026-02-03,2026-02,C,7050,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260203C07055000,SPXW 03FEB26 7055 C,849638104,SPX,CBOE,100,2026-02-03,2026-02,C,7055,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260203P06865000,SPXW 03FEB26 6865 P,845720472,SPX,CBOE,100,2026-02-03,2026-02,P,6865,
+Financial Instrument Information,Data,Equity and Index Options,SPXW  260203P06870000,SPXW 03FEB26 6870 P,842773922,SPX,CBOE,100,2026-02-03,2026-02,P,6870,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260105C00689000,SPY 05JAN26 689 C,841469412,SPY,CBOE,100,2026-01-05,2026-01,C,689,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260105C00694000,SPY 05JAN26 694 C,841469704,SPY,CBOE,100,2026-01-05,2026-01,C,694,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260105P00668000,SPY 05JAN26 668 P,841474503,SPY,CBOE,100,2026-01-05,2026-01,P,668,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260105P00673000,SPY 05JAN26 673 P,841474708,SPY,CBOE,100,2026-01-05,2026-01,P,673,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260107C00695000,SPY 07JAN26 695 C,841816711,SPY,CBOE,100,2026-01-07,2026-01,C,695,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260107C00700000,SPY 07JAN26 700 C,841816746,SPY,CBOE,100,2026-01-07,2026-01,C,700,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260107P00680000,SPY 07JAN26 680 P,841817431,SPY,CBOE,100,2026-01-07,2026-01,P,680,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260107P00685000,SPY 07JAN26 685 P,841817454,SPY,CBOE,100,2026-01-07,2026-01,P,685,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260109C00697000,SPY 09JAN26 697 C,835192473,SPY,CBOE,100,2026-01-09,2026-01,C,697,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260109C00702000,SPY 09JAN26 702 C,835192694,SPY,CBOE,100,2026-01-09,2026-01,C,702,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260109P00677000,SPY 09JAN26 677 P,834836094,SPY,CBOE,100,2026-01-09,2026-01,P,677,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260109P00682000,SPY 09JAN26 682 P,834836406,SPY,CBOE,100,2026-01-09,2026-01,P,682,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260114C00701000,SPY 14JAN26 701 C,843092334,SPY,CBOE,100,2026-01-14,2026-01,C,701,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260114C00706000,SPY 14JAN26 706 C,843092574,SPY,CBOE,100,2026-01-14,2026-01,C,706,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260114P00678000,SPY 14JAN26 678 P,843097875,SPY,CBOE,100,2026-01-14,2026-01,P,678,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260114P00683000,SPY 14JAN26 683 P,843098103,SPY,CBOE,100,2026-01-14,2026-01,P,683,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260116C00704000,SPY 16JAN26 704 C,837822015,SPY,CBOE,100,2026-01-16,2026-01,C,704,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260116C00709000,SPY 16JAN26 709 C,837822081,SPY,CBOE,100,2026-01-16,2026-01,C,709,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260116P00680000,SPY 16JAN26 680 P,668111611,SPY,CBOE,100,2026-01-16,2026-01,P,680,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260116P00685000,SPY 16JAN26 685 P,670902143,SPY,CBOE,100,2026-01-16,2026-01,P,685,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260121C00695000,SPY 21JAN26 695 C,843979157,SPY,CBOE,100,2026-01-21,2026-01,C,695,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260121C00700000,SPY 21JAN26 700 C,843979180,SPY,CBOE,100,2026-01-21,2026-01,C,700,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260121P00662000,SPY 21JAN26 662 P,844427883,SPY,CBOE,100,2026-01-21,2026-01,P,662,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260121P00667000,SPY 21JAN26 667 P,844428012,SPY,CBOE,100,2026-01-21,2026-01,P,667,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260123C00698000,SPY 23JAN26 698 C,836561032,SPY,CBOE,100,2026-01-23,2026-01,C,698,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260123C00703000,SPY 23JAN26 703 C,836931285,SPY,CBOE,100,2026-01-23,2026-01,C,703,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260123P00674000,SPY 23JAN26 674 P,836561289,SPY,CBOE,100,2026-01-23,2026-01,P,674,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260123P00679000,SPY 23JAN26 679 P,836561541,SPY,CBOE,100,2026-01-23,2026-01,P,679,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260127C00699000,SPY 27JAN26 699 C,846599969,SPY,CBOE,100,2026-01-27,2026-01,C,699,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260127C00704000,SPY 27JAN26 704 C,846600381,SPY,CBOE,100,2026-01-27,2026-01,C,704,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260127P00679000,SPY 27JAN26 679 P,846609423,SPY,CBOE,100,2026-01-27,2026-01,P,679,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260127P00684000,SPY 27JAN26 684 P,846609779,SPY,CBOE,100,2026-01-27,2026-01,P,684,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260128C00703000,SPY 28JAN26 703 C,846621741,SPY,CBOE,100,2026-01-28,2026-01,C,703,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260128C00708000,SPY 28JAN26 708 C,846622113,SPY,CBOE,100,2026-01-28,2026-01,C,708,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260128P00680000,SPY 28JAN26 680 P,845726654,SPY,CBOE,100,2026-01-28,2026-01,P,680,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260128P00685000,SPY 28JAN26 685 P,845726674,SPY,CBOE,100,2026-01-28,2026-01,P,685,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260129C00709000,SPY 29JAN26 709 C,846890954,SPY,CBOE,100,2026-01-29,2026-01,C,709,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260129C00714000,SPY 29JAN26 714 C,846891240,SPY,CBOE,100,2026-01-29,2026-01,C,714,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260129P00678000,SPY 29JAN26 678 P,846895721,SPY,CBOE,100,2026-01-29,2026-01,P,678,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260129P00683000,SPY 29JAN26 683 P,846895933,SPY,CBOE,100,2026-01-29,2026-01,P,683,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260130P00680000,SPY 30JAN26 680 P,802553113,SPY,CBOE,100,2026-01-30,2026-01,P,680,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260202P00685000,SPY 02FEB26 685 P,847250765,SPY,CBOE,100,2026-02-02,2026-02,P,685,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260205C00685000,SPY 05FEB26 685 C,848510913,SPY,CBOE,100,2026-02-05,2026-02,C,685,
+Financial Instrument Information,Data,Equity and Index Options,SPY   260206C00690000,SPY 06FEB26 690 C,841818556,SPY,CBOE,100,2026-02-06,2026-02,C,690,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,AFx,AutoFX conversion resulting from trading
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,DT,Discounted Trade
+Codes,Data,De,Delivery or Conversion Action
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,The fractional portion of this trade was executed against IB or an affiliate.
+Codes,Data,FPA,The fractional portion of this trade was executed against IB or an affiliate. IB acted as agent for the whole share portion of this trade.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,The transaction was executed against IB or an affiliate
+Codes,Data,IM,A portion of the order was executed against IB or an affiliate; IB acted as agent on a portion.
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LF,Liquidation of fractional position by IB
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,Off,Yes and No contracts offset to $1.00 cash settlement
+Codes,Data,P,Partial Execution
+Codes,Data,PE,Perpetual Investment
+Codes,Data,PI,Price Improvement
+Codes,Data,PTA,Post Trade Allocation
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Rb,Rebill
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,S0,Contract settled to zero value
+Codes,Data,S1,Contract settled to $1.00
+Codes,Data,SF,Trade is subject to IBKR Lite Surcharge Fee if volume of such trades exceeds 10% of the total monthly Lite trade volume
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Codes,Data,XCH,Mutual Fund Exchange Transaction
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Notes,"Stock exchange transactions generally settle on the trade date plus one business day (T+1). Options, futures and US open-end mutual fund transactions also settle on trade date plus one business day. Some exchanges and other transaction types may have longer or shorter settlement periods. Ending settled cash reflects the cash that has actually settled."
+Notes/Legal Notes,Data,Notes,Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation.
+Notes/Legal Notes,Data,Notes,"Interactive Brokers LLC receives compensation from fund companies in connection with the purchase and holding of fund shares by customers of Interactive Brokers LLC. Such compensation includes, but is not limited to, Rule 12b-1 fees that are paid out of the funds assets. The source and amount of any remuneration received by Interactive Brokers LLC in connection with a transaction will be furnished upon written request of the customer.  IB may share a portion of the compensation received from fund companies with your independent advisor or introducing broker."
+Notes/Legal Notes,Data,Notes,"Quantities preceded by a ""-"" sign indicate sell transactions. Other transactions are purchases. "
+Notes/Legal Notes,Data,Notes,"IB acts as agent in executing the fractional share portion of your order. In certain circumstances, IB routes the fractional portion of your order to an affiliate, which may execute the fractional portion of the order as principal. In such circumstances, this is indicated by the codes associated with the trade. If an IB affiliate acts as principal in executing any fractional share portion of your order, the order will be executed at the price displayed for the opposite side of the NBBO from your order (the offer if you are buying and the bid if you are selling) at the time of execution. If an IB affiliate is acting as riskless principal in connection with filling the fractional share portion of your order, the affiliate will execute the fractional share portion of your order at the price it receives for the execution of the whole share."
+Notes/Legal Notes,Data,Notes,"In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only."
+Notes/Legal Notes,Data,Notes,Trade execution times are displayed in Eastern Time.
+Notes/Legal Notes,Data,Notes,Applicable regulatory fees for your transactions are available on the IB website at www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php.
+Notes/Legal Notes,Data,Notes,"Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the collateral value on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks."
+Notes/Legal Notes,Data,Notes,Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.
+Notes/Legal Notes,Data,Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price."
+Notes/Legal Notes,Data,Notes,All Market Data and Research services are provided through Global Financial Information Services (GmbH).
+Notes/Legal Notes,Data,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Notes/Legal Notes,Data,Notes,"Additional information about your Forex transactions may be requested, including information required under NFA Rule 2-36(o) about Forex trades in the same currency pair as any Forex transaction you executed in your IB account. We can provide this information for trades executed within the 15 minutes immediately before and after your trade. This information is available for a period of 6 months after your trade."
+Notes/Legal Notes,Data,Notes,RUS denotes Ruble balances that have been restricted by Russian authorities.
+Notes/Legal Notes,Data,Mutual Fund Notes,"All purchase and sales of mutual funds are calculated against the published NAV (Net Asset Value) of the underlying fund and is displayed on this confirmation as the ""C. Price"" (Closing Price). Due to any fees charged by a fund and/or any share rounding, the net price you pay may vary from the published NAV and is shown on this confirmation as the ""T. Price"" (Trade Price)."
+Notes/Legal Notes,Data,Fixed Income Notes,"Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: ibkr.com/help. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult an independent advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions."
+Notes/Legal Notes,Data,Legal Notes,"Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights, including rights under the Securities Investor Protection Act (SIPA).Interactive Brokers:Interactive Brokers LLC, www.interactivebrokers.com, 877-442-2757 (U.S.)Interactive Brokers (UK) (Ltd), www.interactivebrokers.co.uk, 00800-42-276537 (Intl)Interactive Brokers Canada Inc., www.interactivebrokers.ca, 877-745-4222 (Can.)"
+Notes/Legal Notes,Data,Legal Notes,"Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers Australia Pty Limited; Interactive Brokers Canada Inc.; Interactive Brokers Hong Kong Limited; Interactive Brokers Ireland, Limited; Interactive Brokers Securities Japan, Inc.; Interactive Brokers (U.K.) Limited; IBKR Financial Services AG; ABN Amro Clearing Singapore Pte. Ltd.; BBVA Bancomer, S.A.; BNP Securities Services, Milan Branch; BMO Harris Bank N.A.; Citibank Europe plc; Skandinaviska Enskilda Banken AB (including select branches)."
+Notes/Legal Notes,Data,Legal Notes,"IB acts as agent or riskless principal in foreign currency exchange transactions and as riskless principal in spot precious metals transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange and spot precious metals transactions executed by Customer through IB are not regulated or overseen by the SEC or the CFTC."
+Notes/Legal Notes,Data,Legal Notes,"IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or visit ibkr.com/help.  "
+Notes/Legal Notes,Data,Legal Notes,"For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer."
+Notes/Legal Notes,Data,Legal Notes,Customer is requested to promptly advise Interactive Brokers of any material change in Customers investment objectives.
+Notes/Legal Notes,Data,Legal Notes,"A financial statement of Interactive Brokers LLC is available for your personal inspection at www.interactivebrokers.com or at its offices, or a copy of it will be mailed upon your written request."
+Notes/Legal Notes,Data,Legal Notes,"For trades executed on the ASX market, the ASX 24 market and the Cboe Australia market, this confirmation is issued subject to: (i) the Applicable Laws, the directions, decisions and requirements of the relevant market operator, the operating rules of the relevant market, the clearing rules and where relevant, the relevant settlement rules, (ii) the customs and usages of the relevant financial market, and (iii) the correction of errors and omissions. Trades in Cash Market Products (as that term is defined in the relevant ASIC market integrity rules) on ASX market and Cboe Australia are cleared by BNP Paribas, ARBN 149 440 291, AFSL 402467, who is a participant of ASX Clear Pty Ltd and ASX Settlement Pty Ltd. Trades in Derivative Products on ASX and all products on ASX 24 are cleared by Interactive Brokers Australia (“IBA”) as a participant of ASX Clear Pty Ltd and ASX Clear (Futures) Pty Ltd. If your transaction was a crossing transaction, IBA may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and acted as Principal on the other side. Under the Corporations Act 2001, where IBA enters into an exchange traded derivative on a customer's behalf, IBA is regarded as having issued the derivative to the customer."
+Notes/Legal Notes,Data,Legal Notes,"For All Options Trades Executed on the Stock Exchange of Hong Kong (""SEHK""): (a) Options can involve a high degree of risk and may not be suitable for every investor. Investors should ensure they understand those risks before participating in the options market. (b) All options contracts executed on the SEHK were executed by Interactive Brokers Hong Kong Limited on behalf of Interactive Brokers LLC. (c) In the event of a default committed by Interactive Brokers LLC resulting in the client suffering any pecuniary loss, the client shall have a right to claim under the Investor Compensation Fund established under the Hong Kong Securities and Futures Ordinance, subject to the terms of the Investor Compensation Fund from time to time. (d) All Exchange Traded Options Business made for or on behalf of a client shall be subject to the relevant provisions of the constitution, Rules of The Stock Exchange of Hong Kong Limited (""SEHK Rules""), regulations, the Articles, customs and usages of SEHK, the Options Trading Rules, the Clearing Rules of SEOCH, the CCASS Rules and the laws of Hong Kong, which shall be binding on both Interactive Brokers LLC and the client."
+Notes/Legal Notes,Data,Legal Notes,"Interactive Brokers LLC is a SIPC member. Deposits held away from Interactive Brokers LLC may not qualify under SIPC protection. Also, futures and options on futures are not covered by SIPC."
+Notes/Legal Notes,Data,,Interactive Brokers LLC is a SIPC Member

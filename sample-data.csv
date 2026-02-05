@@ -1,0 +1,11 @@
+Asset Category,Symbol,Date/Time,Quantity,Proceeds,Comm/Fee
+Equity and Index Options,SPY   240315C00500000,2024-03-01,-1,500.00,1.50
+Equity and Index Options,SPY   240315C00505000,2024-03-01,1,-300.00,1.50
+Equity and Index Options,SPY   240315C00500000,2024-03-15,1,-200.00,1.50
+Equity and Index Options,SPY   240315C00505000,2024-03-15,-1,0.00,1.50
+Equity and Index Options,AAPL  240420P00170000,2024-04-01,-2,800.00,2.00
+Equity and Index Options,AAPL  240420P00165000,2024-04-01,2,-400.00,2.00
+Equity and Index Options,AAPL  240420P00170000,2024-04-20,2,-100.00,2.00
+Equity and Index Options,AAPL  240420P00165000,2024-04-20,-2,0.00,2.00
+Equity and Index Options,TSLA  240515C00180000,2024-05-01,-1,350.00,1.50
+Equity and Index Options,TSLA  240515C00180000,2024-05-10,1,-450.00,1.50
